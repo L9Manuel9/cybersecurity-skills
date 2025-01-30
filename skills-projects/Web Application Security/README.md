@@ -63,7 +63,7 @@ Discover and exploit vulnerabilities related to Local File Inclusion (LFI) or Re
 - Highlights the necessity for validating file paths and using safe inclusion practices.
 
   TryHackMe: https://tryhackme.com/r/room/fileinc
-    ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+  ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
   # HTTP Headers Analysis
 
 ## Objective/Overview
@@ -85,7 +85,7 @@ Analyze web application HTTP headers to identify security misconfigurations or m
 - Simple adjustments can significantly enhance the security posture of a site.
 
 TryHackMe: https://tryhackme.com/r/module/network-security , Could also Mention: https://tryhackme.com/r/module/learn-burp-suite
-    ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
   # Command Injection
 
 ## Objective/Overview
@@ -107,7 +107,7 @@ Test web applications for command injection vulnerabilities that allow attackers
 - Implementing strict input validation and limiting execution of system-level commands is necessary.
 
 TryHackMe: https://tryhackme.com/r/room/oscommandinjection | I am learning further from an Udemy Bug Bounty course.
-    ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
   # Session Hijacking with HTTP
 
 ## Objective/Overview
@@ -128,7 +128,7 @@ Demonstrate how session hijacking can compromise user sessions through insecure 
 - Weak session management can lead to critical data breaches.
 - Using HTTPs and setting cookies with secure attributes (Secure, HttpOnly, SameSite) is vital.
 
-  ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
   # CSRF Vulnerabilities
 
 ## Objective/Overview
@@ -151,7 +151,7 @@ Test for Cross-Site Request Forgery (CSRF) vulnerabilities in web applications, 
 
 TryHackMe: https://tryhackme.com/r/room/csrfV2
 
-  ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
   # SQLmap Usage for SQL Injection
 
 ## Objective/Overview
