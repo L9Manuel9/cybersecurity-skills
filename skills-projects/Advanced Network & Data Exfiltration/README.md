@@ -5,6 +5,7 @@ Where we put an Eye of Awareness About Cryptominers.
 
 ## Objective/Overview
 Learn how to anonymize network traffic through the utilization of VPN services and proxychains, enhancing privacy and evasion.
+
 Tools & Techniques
 
 VPN services and client setups (OpenVPN, NordVPN)
@@ -29,6 +30,7 @@ Trains users on deploying tools safely within compliance with legal parameters.
 ## Objective/Overview
 
 Employ Netcat to establish simple but effective C2 channels for remote command execution and control.
+
 Tools & Techniques
 
 Netcat or ncat for establishing client/server connections
@@ -52,6 +54,7 @@ Advocates for policy controls, encryption, and proactive detection strategies.
 
 ## Objective/Overview
 Create a command-and-control (C2) server environment for managing compromised nodes and conducting post-compromise tasks.
+
 Tools & Techniques
 
 Covenant, Merlin, or commercial C2 frameworks
