@@ -91,6 +91,7 @@ Learn ways to bypass simple firewall rules or basic network filtering, simulatin
 - Illustrates the arms race between attacker methods and defensive technologies.
 - Encourages monitoring lateral movement and performing strict egress filtering.
 
+Note: U can Accomplish it using standard tools as Scapy and Nmaps with the right parameters.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # ARP Poisoning and MITM Attack
