@@ -6,7 +6,7 @@ Can Utilize properly both CyberChief and JohnTheRipper.
 ## Objective/Overview
 
 Generate specific wordlists tailored to the context or target through analysis of available information and understanding.
-Tools & Techniques
+## Tools & Techniques
 
 CeWL for scraping words from websites
 
