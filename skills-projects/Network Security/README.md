@@ -67,6 +67,8 @@ Demonstrate how changing one’s MAC address can bypass basic network filters or
 - Highlights the weakness of MAC-based security mechanisms.
 - More robust solutions (e.g., 802.1X) are necessary to prevent spoofing attacks.
 
+I did it also on my Main desktop. Which is Qubes 4.2, as part of my Initial Anonymizing Procedure.
+
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Basic Firewall Evasion Techniques
