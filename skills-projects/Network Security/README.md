@@ -28,9 +28,9 @@ TryHackMe: https://tryhackme.com/r/module/nmap
 Capture and examine raw network traffic to detect anomalies, suspicious patterns, or vulnerabilities within the data flow.
 
 ## Tools & Techniques
--Wireshark for in-depth graphical packet analysis
--tcpdump for quick, command-line captures
--Familiarity with network protocols (TCP, UDP, DNS, HTTP, etc.)
+- Wireshark for in-depth graphical packet analysis
+- tcpdump for quick, command-line captures
+- Familiarity with network protocols (TCP, UDP, DNS, HTTP, etc.)
 
 ## Implementation Steps
 1. Launch Wireshark or tcpdump on the target interface, enabling promiscuous mode if appropriate.
@@ -39,8 +39,8 @@ Capture and examine raw network traffic to detect anomalies, suspicious patterns
 4. Save capture files (.pcap) for offline review and documentation.
 
 ## Key Takeaways
--Reveals cleartext credentials and insecure protocols in use.
--Useful for troubleshooting network issues and identifying malicious traffic patterns.
+- Reveals cleartext credentials and insecure protocols in use.
+- Useful for troubleshooting network issues and identifying malicious traffic patterns.
 
 TryHackMe: https://tryhackme.com/r/module/wireshark
 TryHackMe: https://tryhackme.com/r/room/tcpdump
