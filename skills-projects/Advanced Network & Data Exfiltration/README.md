@@ -28,8 +28,7 @@ Trains users on deploying tools safely within compliance with legal parameters.
 # Command and Control Using Netcat
 ## Objective/Overview
 
-- Employ Netcat to establish simple but effective C2 channels for remote command execution and control.
-- Tools & Techniques
+- Employ Netcat to establish simple but effective C2 channels for remote command execution and control. Tools & Techniques
 
 - Netcat or ncat for establishing client/server connections
 - Understanding shell and command execution methods
