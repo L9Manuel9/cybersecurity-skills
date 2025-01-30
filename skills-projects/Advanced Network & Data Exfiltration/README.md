@@ -4,7 +4,8 @@ Where we put an Eye of Awareness About Cryptominers.
 # Understanding VPNs and Proxychains
 
 ## Objective/Overview
-Learn how to anonymize network traffic through the utilization of VPN services and proxychains, enhancing privacy and evasion. 
+Learn how to anonymize network traffic through the utilization of VPN services and proxychains, enhancing privacy and evasion.
+
 Tools & Techniques
 
 VPN services and client setups (OpenVPN, NordVPN)
