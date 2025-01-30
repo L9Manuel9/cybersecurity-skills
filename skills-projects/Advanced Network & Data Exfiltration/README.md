@@ -74,7 +74,7 @@ Where we put an Eye of Awareness About Cryptominers.
 - Bettercap for network packet manipulation and modem ARP spoofing
 - HTTP vs. HTTPS protocol understanding
 - Monitoring and MitM attack techniques
-- 
+  
 ## Implementation Steps
 - Set up Bettercap with appropriate network interface settings in a controlled lab environment.
 - Enable ARP spoofing to position yourself as a man-in-the-middle between the target and the gateway.
