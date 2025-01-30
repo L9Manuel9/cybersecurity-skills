@@ -43,7 +43,7 @@ Capture and examine raw network traffic to detect anomalies, suspicious patterns
 - Useful for troubleshooting network issues and identifying malicious traffic patterns.
 
 TryHackMe: https://tryhackme.com/r/module/wireshark
-TryHackMe: https://tryhackme.com/r/room/tcpdump
+& https://tryhackme.com/r/room/tcpdump
 
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
