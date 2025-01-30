@@ -1,6 +1,6 @@
 Cybersecurity Awareness has to be mandatory, And a specialized team deployed where suspicious get triggered.
 As we know, Social Engineering is the Main Exploited vector in Malicious payload delivery & Frauds schemes.
-When i have Deployed my frist R.A.T for ethical purposes, i got very surprised how easily Players think things are harmless.
+When i have Deployed my frist R.A.T for ethical purposes, i got very surprised how easily Players/Individuals Online think things are harmless.
 Or how unsuspicious people gone through a little  Authority (e.g. Staff on a Server such as Videogame or Youtuber/Blog)
 
 # Social Engineering
