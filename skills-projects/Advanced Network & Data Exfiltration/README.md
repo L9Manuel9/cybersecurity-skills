@@ -19,8 +19,8 @@ Where we put an Eye of Awareness About Cryptominers.
 
 ## Key Takeaways
 
-Highlights the significance of using anonymization tools for privacy and security research.
-Trains users on deploying tools safely within compliance with legal parameters.
+- Highlights the significance of using anonymization tools for privacy and security research.
+- Trains users on deploying tools safely within compliance with legal parameters.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 
@@ -101,8 +101,8 @@ Trains users on deploying tools safely within compliance with legal parameters.
 
 1. Set up a DNS server to handle incoming tunneling requests.
 2. Use a DNS tunneling tool to create a client-side connection, encoding and passing data through DNS queries.
-3 Monitor traffic to verify data transmission between the client and server through DNS.
-4.Highlight the threat posed by DNS tunneling, suggesting network monitoring improvements and stricter DNS policies.
+3. Monitor traffic to verify data transmission between the client and server through DNS.
+4. Highlight the threat posed by DNS tunneling, suggesting network monitoring improvements and stricter DNS policies.
 
 ## Key Takeaways
 - Emphasizes the potential for exploiting DNS protocols to bypass security controls.
