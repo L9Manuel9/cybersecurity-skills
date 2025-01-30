@@ -44,7 +44,7 @@ Detect and exploit SQL Injection vulnerabilities in web applications, allowing u
   TryHackMe: https://tryhackme.com/r/room/sqlfundamentals & https://tryhackme.com/r/room/sqlinjectionlm
   
   ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
-  # Exploring File Inclusion Vulnerabilities
+# Exploring File Inclusion Vulnerabilities
 
 ## Objective/Overview
 Discover and exploit vulnerabilities related to Local File Inclusion (LFI) or Remote File Inclusion (RFI) in web applications.
