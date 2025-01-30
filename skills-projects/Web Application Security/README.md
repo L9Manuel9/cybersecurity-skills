@@ -19,6 +19,7 @@ Identify and exploit Cross-Site Scripting (XSS) vulnerabilities in web applicati
 - Shows how seemingly minor vulnerabilities can lead to broader security breaches.
 
 TryHackMe: https://tryhackme.com/room/xss & https://tryhackme.com/r/room/axss
+
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # SQL Injection Basics
 
@@ -41,6 +42,7 @@ Detect and exploit SQL Injection vulnerabilities in web applications, allowing u
 - Stresses using prepared statements and robust input sanitization practices.
 
   TryHackMe: https://tryhackme.com/r/room/sqlfundamentals & https://tryhackme.com/r/room/sqlinjectionlm
+  
   ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
   # Exploring File Inclusion Vulnerabilities
 
@@ -63,6 +65,7 @@ Discover and exploit vulnerabilities related to Local File Inclusion (LFI) or Re
 - Highlights the necessity for validating file paths and using safe inclusion practices.
 
   TryHackMe: https://tryhackme.com/r/room/fileinc
+  
   ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
   # HTTP Headers Analysis
 
@@ -85,6 +88,7 @@ Analyze web application HTTP headers to identify security misconfigurations or m
 - Simple adjustments can significantly enhance the security posture of a site.
 
 TryHackMe: https://tryhackme.com/r/module/network-security , Could also Mention: https://tryhackme.com/r/module/learn-burp-suite
+
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
   # Command Injection
 
@@ -107,6 +111,7 @@ Test web applications for command injection vulnerabilities that allow attackers
 - Implementing strict input validation and limiting execution of system-level commands is necessary.
 
 TryHackMe: https://tryhackme.com/r/room/oscommandinjection | I am learning further from an Udemy Bug Bounty course.
+
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
   # Session Hijacking with HTTP
 
@@ -173,6 +178,7 @@ Use SQLmap, a powerful automated tool, to exploit SQL injection vulnerabilities,
 - Emphasizes using secure practices like input sanitization and least privilege user roles in databases.
 
   TryHackMe: https://tryhackme.com/r/room/sqlmapthebasics
+  
   ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
   # Automated SQL Injection with jSQL
 
@@ -237,6 +243,7 @@ Test web applications’ file upload capabilities to identify weaknesses allowin
 - Secure handling practices and file integrity checks must be standard in development.
 
 TryHackMe: https://tryhackme.com/r/room/uploadvulns
+
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Exploiting Web Sockets
 
