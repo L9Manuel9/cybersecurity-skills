@@ -1,4 +1,4 @@
-I Have a clear understand of the differences between Hashing, Cryptography and Encoding.
+I Have a clear understand of the differences between Hashing, salts, Cryptography and Encoding.
 
 Can Utilize properly both CyberChief and JohnTheRipper.
 
