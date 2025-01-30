@@ -67,7 +67,7 @@ Discover and exploit vulnerabilities related to Local File Inclusion (LFI) or Re
   TryHackMe: https://tryhackme.com/r/room/fileinc
   
   ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
-  # HTTP Headers Analysis
+# HTTP Headers Analysis
 
 ## Objective/Overview
 Analyze web application HTTP headers to identify security misconfigurations or missing headers that could lead to vulnerabilities.
@@ -90,7 +90,7 @@ Analyze web application HTTP headers to identify security misconfigurations or m
 TryHackMe: https://tryhackme.com/r/module/network-security , Could also Mention: https://tryhackme.com/r/module/learn-burp-suite
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
-  # Command Injection
+# Command Injection
 
 ## Objective/Overview
 Test web applications for command injection vulnerabilities that allow attackers to execute arbitrary commands on the server.
@@ -113,7 +113,7 @@ Test web applications for command injection vulnerabilities that allow attackers
 TryHackMe: https://tryhackme.com/r/room/oscommandinjection | I am learning further from an Udemy Bug Bounty course.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
-  # Session Hijacking with HTTP
+# Session Hijacking with HTTP
 
 ## Objective/Overview
 Demonstrate how session hijacking can compromise user sessions through insecure session management, leading to unauthorized access.
@@ -134,7 +134,7 @@ Demonstrate how session hijacking can compromise user sessions through insecure 
 - Using HTTPs and setting cookies with secure attributes (Secure, HttpOnly, SameSite) is vital.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
-  # CSRF Vulnerabilities
+# CSRF Vulnerabilities
 
 ## Objective/Overview
 Test for Cross-Site Request Forgery (CSRF) vulnerabilities in web applications, which could allow attackers to perform unauthorized actions on behalf of users.
@@ -157,7 +157,7 @@ Test for Cross-Site Request Forgery (CSRF) vulnerabilities in web applications, 
 TryHackMe: https://tryhackme.com/r/room/csrfV2
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
-  # SQLmap Usage for SQL Injection
+# SQLmap Usage for SQL Injection
 
 ## Objective/Overview
 Use SQLmap, a powerful automated tool, to exploit SQL injection vulnerabilities, gaining unauthorized access or exfiltrating sensitive data from databases.
@@ -179,8 +179,8 @@ Use SQLmap, a powerful automated tool, to exploit SQL injection vulnerabilities,
 
   TryHackMe: https://tryhackme.com/r/room/sqlmapthebasics
   
-  ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
-  # Automated SQL Injection with jSQL
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+# Automated SQL Injection with jSQL
 
 ## Objective/Overview
 Utilize jSQL Injection to perform automated SQL injection attacks, identifying vulnerabilities, and data extraction opportunities in web applications.
