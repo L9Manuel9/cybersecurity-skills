@@ -5,7 +5,7 @@ Or how unsuspicious people gone through a little  Authority (e.g. Staff on a Ser
 
 However, Since i'm a Person with a morality, i've never used such Knowledge and utilities to harm.
 
-The difference between me and my Workstation lay there. .cit ~Tony Boy 
+the difference between me and my computer is my guilt. .cit ~Tony Boy 
 
 # Social Engineering
 
