@@ -4,13 +4,12 @@ Where we put an Eye of Awareness About Cryptominers.
 # Understanding VPNs and Proxychains
 
 ## Objective/Overview
-Learn how to anonymize network traffic through the utilization of VPN services and proxychains, enhancing privacy and evasion.
+- Learn how to anonymize network traffic through the utilization of VPN services and proxychains, enhancing privacy and evasion.
+- Tools & Techniques
 
-Tools & Techniques
-
-VPN services and client setups (OpenVPN, NordVPN)
-Proxychains configuration for layered IP anonymity
-Understanding of SOCKS5 and HTTP proxy mechanics
+- VPN services and client setups (OpenVPN, NordVPN)
+- Proxychains configuration for layered IP anonymity
+- Understanding of SOCKS5 and HTTP proxy mechanics
 
 ## Implementation Steps
 
@@ -29,13 +28,12 @@ Trains users on deploying tools safely within compliance with legal parameters.
 # Command and Control Using Netcat
 ## Objective/Overview
 
-Employ Netcat to establish simple but effective C2 channels for remote command execution and control.
+- Employ Netcat to establish simple but effective C2 channels for remote command execution and control.
+- Tools & Techniques
 
-Tools & Techniques
-
-Netcat or ncat for establishing client/server connections
-Understanding shell and command execution methods
-Secure deployments using encrypted transport layers
+- Netcat or ncat for establishing client/server connections
+- Understanding shell and command execution methods
+- Secure deployments using encrypted transport layers
 
 ## Implementation Steps
 
@@ -46,20 +44,19 @@ Secure deployments using encrypted transport layers
 
 ## Key Takeaways
 
-Simple connections suffice for fundamental exploit execution.
-Advocates for policy controls, encryption, and proactive detection strategies.
+- Simple connections suffice for fundamental exploit execution.
+- Advocates for policy controls, encryption, and proactive detection strategies.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Setting Up a C2 Server
 
 ## Objective/Overview
-Create a command-and-control (C2) server environment for managing compromised nodes and conducting post-compromise tasks.
+- Create a command-and-control (C2) server environment for managing compromised nodes and conducting post-compromise tasks.
+- Tools & Techniques
 
-Tools & Techniques
-
-Covenant, Merlin, or commercial C2 frameworks
-Understanding reverse HTTP/S or DNS tunneling
-Techniques for secure operation while avoiding detection
+- Covenant, Merlin, or commercial C2 frameworks
+- Understanding reverse HTTP/S or DNS tunneling
+- Techniques for secure operation while avoiding detection
 
 ## Implementation Steps
 1. Deploy a C2 environment, establishing server operations and reverse connection settings.
@@ -69,5 +66,5 @@ Techniques for secure operation while avoiding detection
 
 ## Key Takeaways
 
-C2 operations highlight advanced post-compromise tactics and methods of control.
-Must be handled ethically, promoting understanding while addressing security improvements.
+- C2 operations highlight advanced post-compromise tactics and methods of control.
+- Must be handled ethically, promoting understanding while addressing security improvements.
