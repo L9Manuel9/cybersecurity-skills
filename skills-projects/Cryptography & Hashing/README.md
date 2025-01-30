@@ -7,7 +7,7 @@ I Have a clear understand of the differences between Hashing, Cryptography and E
 Generate specific wordlists tailored to the context or target through analysis of available information and understanding.
 Tools & Techniques
 
-CeWL for scraping words from websites
+CeWL for scraping words from websites.
 Crunch for generating wordlists based on patterns and permutations
 Custom scripting for combining known personal, organization, or context data
 
