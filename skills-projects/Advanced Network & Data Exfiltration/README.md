@@ -65,3 +65,45 @@ Trains users on deploying tools safely within compliance with legal parameters.
 
 - C2 operations highlight advanced post-compromise tactics and methods of control.
 - Must be handled ethically, promoting understanding while addressing security improvements.
+
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+# SSL Stripping with Bettercap
+
+## Objective/Overview
+- Exploit encryption downgrades using Bettercap to convert HTTPS traffic to HTTP, exposing it to interception and potential manipulation. Tools & Techniques
+- Bettercap for network packet manipulation and modem ARP spoofing
+- HTTP vs. HTTPS protocol understanding
+- Monitoring and MitM attack techniques
+- 
+## Implementation Steps
+- Set up Bettercap with appropriate network interface settings in a controlled lab environment.
+- Enable ARP spoofing to position yourself as a man-in-the-middle between the target and the gateway.
+- Activate the sslstrip module, redirecting HTTPS requests to HTTP while logging the traffic.
+- Analyze intercepted HTTP traffic for sensitive data like login credentials or session tokens.
+- Report findings and recommend implementing HSTS (HTTP Strict Transport Security) and user education on secure browsing practices.
+  
+## Key Takeaways
+- Demonstrates the significant risk posed by improper encryption and HTTP usage.
+- Highlights the importance of enforcing HSTS and securing DNS records to prevent similar attacks.
+
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+
+# DNS Tunneling
+
+## Objective/Overview
+
+- Utilize DNS tunneling techniques to establish a covert communication channel for data exfiltration or stealth C2 operations. Tools & Techniques
+- DNS tunneling tools like iodine or dnscat2
+- Packet analysis tools to configure and test tunnel efficacy
+- Understanding of DNS protocol and manipulation
+
+## Implementation Steps
+
+1. Set up a DNS server to handle incoming tunneling requests.
+2. Use a DNS tunneling tool to create a client-side connection, encoding and passing data through DNS queries.
+3 Monitor traffic to verify data transmission between the client and server through DNS.
+4.Highlight the threat posed by DNS tunneling, suggesting network monitoring improvements and stricter DNS policies.
+
+## Key Takeaways
+- Emphasizes the potential for exploiting DNS protocols to bypass security controls.
+- Stresses robust monitoring and intercept practices in detecting unusual DNS activities.
