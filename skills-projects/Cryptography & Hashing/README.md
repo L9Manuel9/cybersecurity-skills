@@ -1,8 +1,6 @@
 I Have a clear understand of the differences between Hashing, Cryptography and Encoding.
 
-# Cryptography & Hashing
-
-Creating Custom Wordlists
+# Creating Custom Wordlists
    
 ## Objective/Overview
 
