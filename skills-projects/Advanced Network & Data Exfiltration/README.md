@@ -4,8 +4,7 @@ Where we put an Eye of Awareness About Cryptominers.
 # Understanding VPNs and Proxychains
 
 ## Objective/Overview
-- Learn how to anonymize network traffic through the utilization of VPN services and proxychains, enhancing privacy and evasion.
-  Tools & Techniques
+- Learn how to anonymize network traffic through the utilization of VPN services and proxychains, enhancing privacy and evasion. Tools & Techniques
 
 - VPN services and client setups (OpenVPN, NordVPN)
 - Proxychains configuration for layered IP anonymity
@@ -50,8 +49,7 @@ Trains users on deploying tools safely within compliance with legal parameters.
 # Setting Up a C2 Server
 
 ## Objective/Overview
-- Create a command-and-control (C2) server environment for managing compromised nodes and conducting post-compromise tasks.
-- Tools & Techniques
+- Create a command-and-control (C2) server environment for managing compromised nodes and conducting post-compromise tasks. Tools & Techniques
 
 - Covenant, Merlin, or commercial C2 frameworks
 - Understanding reverse HTTP/S or DNS tunneling
