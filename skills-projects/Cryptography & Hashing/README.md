@@ -1,5 +1,5 @@
 I Have a clear understand of the differences between Hashing, Cryptography and Encoding.
-Along with CyberChief and JohnTheRipper and others.
+Can Utilize properly both CyberChief and JohnTheRipper.
 
 # Creating Custom Wordlists
    
