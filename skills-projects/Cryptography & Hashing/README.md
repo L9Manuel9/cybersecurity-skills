@@ -2,6 +2,8 @@ I Have a clear understand of the differences between Hashing, salts, Cryptograph
 
 Can Utilize properly both CyberChief and JohnTheRipper.
 
+Above Project is also related to Brute-Forcing Techniques.
+
 # Creating Custom Wordlists
    
 ## Objective/Overview
