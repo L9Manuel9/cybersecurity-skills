@@ -1,6 +1,6 @@
 I'm Currently Interested in this.
 So on TryHackMe I'm Approaching "Web Application Pentesting Path" Which imply a more in-depth knowledge.
-and "Offensive Pentester" With more than 20 Machines to Exploit.
+and "Offensive Pentester" With more than 20 Machines to Exploit. I Have studied Bottom to Top on TryHackMe, Gaining solid fundamentals, so i already completed Everything prior, starting from "Pre-Security"
 
 However, I'm Also doing Two differents courses on Udemy, both Web Security & Bug Bounty related, from which i like to Study in a more passive way 
 where taking notes. I'll soon approach Bug Bounty programs.
