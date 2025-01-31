@@ -49,7 +49,7 @@ However, sometimes i'll rather have greater control over the environment or wher
 
 ## Key Takeaways
 
--Facilitates secure practice and experimentation.
+- Facilitates secure practice and experimentation.
 - Helps reproduce scenarios necessary for comprehending vulnerabilities and defenses.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
