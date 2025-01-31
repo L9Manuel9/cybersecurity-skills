@@ -47,6 +47,82 @@ TryHackMe: https://tryhackme.com/r/module/wireshark
 
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+# DNS Enumeration
+
+## Objective/Overview 
+
+Uncover DNS records that can reveal subdomains, mail servers, or other infrastructure details about a target.
+
+## Tools & Techniques
+
+- dnsenum, dig, nslookup
+- Zone transfers (if misconfigured)
+- Subdomain brute forcing
+
+## Implementation Steps
+
+1. Use dig or nslookup to query for A, MX, NS, CNAME records.
+2. Attempt a zone transfer (dig AXFR @nameserver domain.com) if allowed.
+3. Run dnsenum or other scripts to systematically find subdomains.
+4. Document your findings for potential entry points or infrastructure mapping.
+
+## Key Takeaways
+ 
+- Often reveals hidden or staging subdomains.
+- Reiterates the importance of proper DNS configuration to prevent zone transfers.
+
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+# Understanding Cookies and Sessions
+
+## Objective/Overview 
+
+Investigate how web sessions work, including cookie-based authentication and possible session hijacking methods.
+
+## Tools & Techniques
+
+- Browser dev tools, Burp Suite
+- Inspecting Set-Cookie headers
+- Session fixation or hijacking concepts
+
+## Implementation Steps
+
+1. Log in to a test web application, note the session ID in cookies.
+2. Observe how the session ID changes upon logout or different flows.
+3. Attempt to reuse the same cookie from another browser or device.
+4. Document if the application properly invalidates sessions upon logout.
+
+## Key Takeaways
+
+- Essential to securing user authentication.
+- Without secure cookies, an attacker might hijack sessions for unauthorized access.
+
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+# Analyzing Network Logs for Intrusions
+
+## Objective/Overview 
+
+Review firewall, IDS, or server logs to detect suspicious patterns indicating attacks or unauthorized access attempts.
+
+## Tools & Techniques
+
+- Splunk, ELK stack (Elasticsearch, Logstash, Kibana)
+- Searching for abnormal traffic patterns (high volume, repeated failures)
+- Correlating events across multiple log sources
+
+## Implementation Steps
+
+1. Aggregate logs in a centralized tool (e.g., Kibana) or use command-line parsing (e.g., grep, awk).
+2. Search for anomalies—unusual IP addresses, frequent authentication failures.
+3. Create dashboards or alerts for repeated suspicious behavior.
+4. Investigate suspicious events, cross-referencing with threat intelligence if available.
+
+## Key Takeaways
+
+- Proactive log analysis can detect intrusions early.
+- Helps refine security controls and incident response plan
+
+    ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+
 # MAC Address Spoofing
 
 ## Objective/Overview
