@@ -42,6 +42,31 @@ Detect and exploit SQL Injection vulnerabilities in web applications, allowing u
 - Stresses using prepared statements and robust input sanitization practices.
 
   TryHackMe: https://tryhackme.com/r/room/sqlfundamentals & https://tryhackme.com/r/room/sqlinjectionlm
+
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+# Exploring Directory Traversal
+
+## Objective/Overview 
+
+Show how malicious input can read arbitrary files from a server by manipulating file path references.
+
+## Tools & Techniques
+
+- Payloads like ../../../../etc/passwd
+- Intercept proxies or manual URL manipulation
+- Checking for web server misconfigurations
+
+## Implementation Steps
+
+1. Identify endpoints that take file paths or resource parameters.
+2. Append sequences of ../ to attempt reading protected directories.
+3. Confirm success if the server returns the content of restricted files.
+4. Suggest using parameter sanitization or chroot jails to mitigate.
+
+## Key Takeaways
+
+- A commonly overlooked vulnerability in older or poorly coded web apps.
+- Once exploited, can reveal confidential server information.
   
   ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Exploring File Inclusion Vulnerabilities
