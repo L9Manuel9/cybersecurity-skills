@@ -4,7 +4,9 @@ Where we put an Eye of Awareness About Cryptominers.
 # Understanding VPNs and Proxychains
 
 ## Objective/Overview
-- Learn how to anonymize network traffic through the utilization of VPN services and proxychains, enhancing privacy and evasion. Tools & Techniques
+- Learn how to anonymize network traffic through the utilization of VPN services and proxychains, enhancing privacy and evasion.
+
+  ## Tools & Techniques
 
 - VPN services and client setups (OpenVPN, NordVPN)
 - Proxychains configuration for layered IP anonymity
@@ -27,7 +29,9 @@ Where we put an Eye of Awareness About Cryptominers.
 # Command and Control Using Netcat
 ## Objective/Overview
 
-- Employ Netcat to establish simple but effective C2 channels for remote command execution and control. Tools & Techniques
+- Employ Netcat to establish simple but effective C2 channels for remote command execution and control.
+
+## Tools & Techniques
 
 - Netcat or ncat for establishing client/server connections
 - Understanding shell and command execution methods
@@ -49,7 +53,9 @@ Where we put an Eye of Awareness About Cryptominers.
 # Setting Up a C2 Server
 
 ## Objective/Overview
-- Create a command-and-control (C2) server environment for managing compromised nodes and conducting post-compromise tasks. Tools & Techniques
+- Create a command-and-control (C2) server environment for managing compromised nodes and conducting post-compromise tasks.
+
+## Tools & Techniques
 
 - Covenant, Merlin, or commercial C2 frameworks
 - Understanding reverse HTTP/S or DNS tunneling
@@ -70,7 +76,10 @@ Where we put an Eye of Awareness About Cryptominers.
 # SSL Stripping with Bettercap
 
 ## Objective/Overview
-- Exploit encryption downgrades using Bettercap to convert HTTPS traffic to HTTP, exposing it to interception and potential manipulation. Tools & Techniques
+- Exploit encryption downgrades using Bettercap to convert HTTPS traffic to HTTP, exposing it to interception and potential manipulation.
+
+## Tools & Techniques
+
 - Bettercap for network packet manipulation and modem ARP spoofing
 - HTTP vs. HTTPS protocol understanding
 - Monitoring and MitM attack techniques
@@ -92,7 +101,10 @@ Where we put an Eye of Awareness About Cryptominers.
 
 ## Objective/Overview
 
-- Utilize DNS tunneling techniques to establish a covert communication channel for data exfiltration or stealth C2 operations. Tools & Techniques
+- Utilize DNS tunneling techniques to establish a covert communication channel for data exfiltration or stealth C2 operations.
+
+## Tools & Techniques
+
 - DNS tunneling tools like iodine or dnscat2
 - Packet analysis tools to configure and test tunnel efficacy
 - Understanding of DNS protocol and manipulation
