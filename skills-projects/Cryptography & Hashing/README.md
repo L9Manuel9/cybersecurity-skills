@@ -9,12 +9,12 @@ Above Project is also related to Brute-Forcing Techniques.
 ## Objective/Overview
 
 Generate specific wordlists tailored to the context or target through analysis of available information and understanding.
+
 ## Tools & Techniques
 
-CeWL for scraping words from websites
-
-Crunch for generating wordlists based on patterns and permutations
-Custom scripting for combining known personal, organization, or context data
+- CeWL for scraping words from websites
+- Crunch for generating wordlists based on patterns and permutations
+- Custom scripting for combining known personal, organization, or context data
 
 ## Implementation Steps
 
@@ -25,7 +25,7 @@ Custom scripting for combining known personal, organization, or context data
 
 ## Key Takeaways
 
-Tailored wordlists often lead to increased success in password testing scenarios.
-Enhances targeted understanding and focus in password auditing efforts.
+- Tailored wordlists often lead to increased success in password testing scenarios.
+- Enhances targeted understanding and focus in password auditing efforts.
 
 TryHackMe: https://tryhackme.com/r/module/cryptography-101
