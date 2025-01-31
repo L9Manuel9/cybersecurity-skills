@@ -6,7 +6,10 @@ However, sometimes i'll rather have greater control over the environment or wher
 
 ## Objective/Overview
 
-- Design and implement a Capture the Flag (CTF) environment to simulate real-world scenarios and test security skills in a controlled environment. Tools & Techniques
+- Design and implement a Capture the Flag (CTF) environment to simulate real-world scenarios and test security skills in a controlled environment.
+
+## Tools & Techniques
+
 - Virtual machine platforms (VirtualBox, VMware)
 - Vulnerable applications and custom scenarios
 - Networking components for realistic setups
@@ -29,7 +32,10 @@ However, sometimes i'll rather have greater control over the environment or wher
 
 ## Objective/Overview
 
-- Create a virtual lab consisting of multiple interconnected machines to practice penetration testing techniques and explore network security. Tools & Techniques
+- Create a virtual lab consisting of multiple interconnected machines to practice penetration testing techniques and explore network security.
+
+## Tools & Techniques
+
 - Virtualization software for multiple VMs (VirtualBox, KVM)
 - Router and network configuration for isolated practice environments
 - Pre-built vulnerable virtual machines
@@ -51,7 +57,10 @@ However, sometimes i'll rather have greater control over the environment or wher
 
 ## Objective/Overview
 
-- Simulate brute force attacks to test system and application resilience to such techniques in a secure and controlled environment. Tools & Techniques
+- Simulate brute force attacks to test system and application resilience to such techniques in a secure and controlled environment.
+
+## Tools & Techniques
+
 - Brute force tools like Hydra or Burp Suite Intruder
 - Customized wordlists reflecting realistic attack vectors
 - Monitoring for failed attempts, lockout capabilities
