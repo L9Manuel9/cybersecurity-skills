@@ -1,6 +1,9 @@
 I Have a clear understand of the differences between Hashing, salts, Cryptography and Encoding.
 
-Can Utilize properly both CyberChief and JohnTheRipper.
+Can Utilize properly both CyberChef and JohnTheRipper.
+
+- https://tryhackme.com/r/room/cyberchefbasics
+- https://tryhackme.com/r/room/johntheripperbasics
 
 Above Project is also related to Brute-Forcing Techniques.
 
