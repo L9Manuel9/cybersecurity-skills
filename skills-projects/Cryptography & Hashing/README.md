@@ -1,5 +1,7 @@
 I Have a clear understand of the differences between Hashing, salts, Cryptography and Encoding.
 
+- https://tryhackme.com/r/module/cryptography-101
+
 Can Utilize properly both CyberChef and JohnTheRipper.
 
 - https://tryhackme.com/r/room/cyberchefbasics
