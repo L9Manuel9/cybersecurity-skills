@@ -71,7 +71,7 @@ Uncover DNS records that can reveal subdomains, mail servers, or other infrastru
 - Often reveals hidden or staging subdomains.
 - Reiterates the importance of proper DNS configuration to prevent zone transfers.
 
-  TryHackMe: https://tryhackme.com/r/room/passiverecon
+TryHackMe: https://tryhackme.com/r/room/passiverecon
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Understanding Cookies and Sessions
@@ -123,7 +123,7 @@ Review firewall, IDS, or server logs to detect suspicious patterns indicating at
 - Proactive log analysis can detect intrusions early.
 - Helps refine security controls and incident response plan
 
-  TryHackMe: https://tryhackme.com/r/room/introtosiem & https://tryhackme.com/r/room/idsfundamentals
+TryHackMe: https://tryhackme.com/r/room/introtosiem & https://tryhackme.com/r/room/idsfundamentals
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 
