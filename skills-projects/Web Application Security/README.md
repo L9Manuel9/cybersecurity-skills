@@ -49,7 +49,7 @@ Detect and exploit SQL Injection vulnerabilities in web applications, allowing u
 - Demonstrates how unvalidated inputs can lead to severe data breaches.
 - Stresses using prepared statements and robust input sanitization practices.
 
-  TryHackMe: https://tryhackme.com/r/room/sqlfundamentals & https://tryhackme.com/r/room/sqlinjectionlm
+TryHackMe: https://tryhackme.com/r/room/sqlfundamentals & https://tryhackme.com/r/room/sqlinjectionlm
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Exploring Directory Traversal
@@ -75,8 +75,8 @@ Show how malicious input can read arbitrary files from a server by manipulating 
 
 - A commonly overlooked vulnerability in older or poorly coded web apps.
 - Once exploited, can reveal confidential server information.
-  
-  ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Exploring File Inclusion Vulnerabilities
 
 ## Objective/Overview
@@ -97,9 +97,9 @@ Discover and exploit vulnerabilities related to Local File Inclusion (LFI) or Re
 - Explains how file inclusions can lead to unauthorized file access or remote code execution.
 - Highlights the necessity for validating file paths and using safe inclusion practices.
 
-  TryHackMe: https://tryhackme.com/r/room/fileinc
-  
-  ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
+TryHackMe: https://tryhackme.com/r/room/fileinc
+
+------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # HTTP Headers Analysis
 
 ## Objective/Overview
