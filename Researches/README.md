@@ -104,7 +104,7 @@ A polymorphic miner changes its code structure often to avoid standard security 
 
 The newer miners spread by themselves through networks. They find weak spots or passwords as well as take over more computers fast.
 
-- 5.3. C2c communication obfuscation
+- 5.3. C2C communication obfuscation
 
 These programs hide their control signals in several ways:
 
