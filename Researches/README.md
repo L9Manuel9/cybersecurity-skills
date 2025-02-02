@@ -66,22 +66,20 @@ IoT devices have flaws which cybercriminals use for attacks:
 
 - Constant connectivity: The devices stay online at all times, which gives hackers more chances to attack.
 
-3. Mechanics of Cryptominer infections
+## 3. Mechanics of Cryptominer infections
 
 The way cryptominer infections spread includes these steps:
 
-Automatic scanning
+- Automatic scanning
 Attackers run tools like Shodan or masscan to find IoT devices that show weaknesses in a network.
 
-Password attacks
+- Password attacks
 Attackers test many basic username as well as password pairs until they break in.
 
-Payload setup
-
+- Payload setup
 The bad actors upload harmful files through open services or use weak spots for remote control.
 
-System takeover
-
+- System takeover
 After setup miners add their code to startup programs to keep running after system restarts.
 
 4. Impact of cryptominer infections on systems
