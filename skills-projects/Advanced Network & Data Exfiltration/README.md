@@ -76,24 +76,24 @@ Where we put an Eye of Awareness About Cryptominers.
 # SSL Stripping with Bettercap
 
 ## Objective/Overview
-- Exploit encryption downgrades using Bettercap to convert HTTPS traffic to HTTP, exposing it to interception and potential manipulation.
+- Remove encryption with Bettercap to change HTTPS to HTTP traffic for data inspection.
 
 ## Tools & Techniques
 
-- Bettercap for network packet manipulation and modem ARP spoofing
+- Bettercap for network packets as well as modem ARP spoofing
 - HTTP vs. HTTPS protocol understanding
-- Monitoring and MitM attack techniques
+- Methods for network inspection or MitM attacks
   
 ## Implementation Steps
-- Set up Bettercap with appropriate network interface settings in a controlled lab environment.
-- Enable ARP spoofing to position yourself as a man-in-the-middle between the target and the gateway.
-- Activate the sslstrip module, redirecting HTTPS requests to HTTP while logging the traffic.
-- Analyze intercepted HTTP traffic for sensitive data like login credentials or session tokens.
-- Report findings and recommend implementing HSTS (HTTP Strict Transport Security) and user education on secure browsing practices.
+- Configure Bettercap with network settings in a test lab.
+- Start ARP spoofing to act as a bridge between target or gateway.
+- Turn on sslstrip to convert web traffic to HTTP with logs.
+- Search HTTP data for passwords or session data.
+- Document results and propose HSTS adoption along with better user training on secure browsing practices.
   
 ## Key Takeaways
-- Demonstrates the significant risk posed by improper encryption and HTTP usage.
-- Highlights the importance of enforcing HSTS and securing DNS records to prevent similar attacks.
+- This case shows how unsafe encryption and HTTP can put systems at risk.
+- HSTS enforcement along with secure DNS records help block such attacks.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 
@@ -101,21 +101,21 @@ Where we put an Eye of Awareness About Cryptominers.
 
 ## Objective/Overview
 
-- Utilize DNS tunneling techniques to establish a covert communication channel for data exfiltration or stealth C2 operations.
+- Set up DNS tunneling to create a hidden communication channel for data movement or remote operations.
 
 ## Tools & Techniques
 
-- DNS tunneling tools like iodine or dnscat2
-- Packet analysis tools to configure and test tunnel efficacy
-- Understanding of DNS protocol and manipulation
+- DNS tunnel software such as iodine or dnscat2
+- Tools to check packet flow along with test tunnel success
+- Knowledge about DNS structure and changes
 
 ## Implementation Steps
 
-1. Set up a DNS server to handle incoming tunneling requests.
-2. Use a DNS tunneling tool to create a client-side connection, encoding and passing data through DNS queries.
-3. Monitor traffic to verify data transmission between the client and server through DNS.
-4. Highlight the threat posed by DNS tunneling, suggesting network monitoring improvements and stricter DNS policies.
+1. Place a DNS server ready for tunnel requests.
+2. Pick a DNS tunnel tool to set up client links that encode data in DNS queries.
+3. Watch the data flow between client or server via DNS.
+4. Show how DNS tunnels risk security then add better network checks or DNS rules.
 
 ## Key Takeaways
-- Emphasizes the potential for exploiting DNS protocols to bypass security controls.
-- Stresses robust monitoring and intercept practices in detecting unusual DNS activities.
+- Shows ways to use DNS paths around security blocks.
+- Points out the need for DNS traffic inspection and blocks.
