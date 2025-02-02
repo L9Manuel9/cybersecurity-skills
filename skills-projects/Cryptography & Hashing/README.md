@@ -11,20 +11,20 @@ Above Project is also related to Brute-Forcing Techniques.
    
 ## Objective/Overview
 
-Generate specific wordlists tailored to the context or target through analysis of available information and understanding.
+Make specific wordlists that match the context or target based on data study and knowledge.
 
 ## Tools & Techniques
 
-- CeWL for scraping words from websites
-- Crunch for generating wordlists based on patterns and permutations
-- Custom scripting for combining known personal, organization, or context data
+- CeWL helps collect words from web pages
+- Crunch for builds lists from patterns
+- Scripts combine personal, company or related info
 
 ## Implementation Steps
 
-1. Analyze available data sources (e.g., websites, social networks) providing potential password hints or conventions.
-2. Use tools like CeWL to extract terms directly from target webpages.
-3. Create custom permutations and wordlists using Crunch or custom scripts.
-4. Deploy these wordlists in password testing efforts, refining content as needed.
+1. Study useful data from sites or social media that shows password patterns.
+2. Let CeWL pull words from target sites.
+3. Make custom word sets with Crunch or scripts.
+4. Test the lists for passwords and improve them when needed.
 
 ## Key Takeaways
 
