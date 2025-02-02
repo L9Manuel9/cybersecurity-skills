@@ -30,24 +30,24 @@ TryHackMe: https://tryhackme.com/r/module/metasploit
 
 ## Objective/Overview 
 
-Gain familiarity with Burp Suite for intercepting, modifying, and automating web security tests.
+Learn to use Burp Suite for web security tests through request interception or modification.
 
 ## Tools & Techniques
 
 - Proxy interception, Repeater, Intruder
-- Extender (Burp’s plugin system)
-- SSL certificate installation for HTTPS interception
+- The Extender adds plugins to Burp
+- SSL setup to check HTTPS traffic
 
 ## Implementation Steps
 
-1. Configure your browser to use Burp’s proxy (default 127.0.0.1:8080).
-2. Intercept requests and examine headers, parameters, cookies.
+1. Set browser proxy to 127.0.0.1:8080.
+2. Intercept web requests to check headers, parameters and cookies.
 3. Use Repeater to manually test endpoints and manipulate data.
 4. Automate fuzzing or brute forcing with Intruder.
 
 ## Key Takeaways
 
 - A must-have tool for web app pentesting.
-- Provides a comprehensive platform for manual and automated analysis.
+- Makes a full platform to test apps by hand or script.
 
 TryHackMe: https://tryhackme.com/r/module/learn-burp-suite
