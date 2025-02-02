@@ -144,7 +144,7 @@ The Mirai botnet took control of IoT devices with weak security to create one of
 
 - Cryptojacking Incidents
 
-Many companies found attackers who used their computers to mine digital currencies. These attacks slowed down systems as well as cost money. The cases show why systems need constant monitoring along with fast response plans.
+Many companies found attackers who used their devices to mine digital currencies. These attacks slowed down systems as well as cost money. The cases show why systems need constant monitoring along with fast response plans.
 
 ## 9. Future Considerations and Recommendations
 
