@@ -47,24 +47,24 @@ new threats.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 
-1. A short overview
+## 1. A short overview
 
 The increase of smart technology paved the way for many IoT devices and IP cameras which created new risks for cyberattacks.
 Cryptominer attacks became more common as hackers targeted weak devices to mine cryptocurrencies without others knowing. 
 This paper looks at weak spots in systems, how infections spread, tricks attackers use and the ways companies 
 can protect themselves. The research offers clear steps to defend against such threats.
 
-2. Vulnerabilities in IoT devices
+## 2. Vulnerabilities in IoT devices
 
 IoT devices have flaws which cybercriminals use for attacks:
 
-Default credentials: Many devices come with basic factory usernames or passwords that attackers guess with ease to gain access.
+- Default credentials: Many devices come with basic factory usernames or passwords that attackers guess with ease to gain access.
 
-Insecure web interfaces: Poor web service setup leads to risks like remote code attacks.
+- Insecure web interfaces: Poor web service setup leads to risks like remote code attacks.
 
-Infrequent software updates: A lot of IoT devices do not receive new firmware, which lets attackers use known flaws.
+- Infrequent software updates: A lot of IoT devices do not receive new firmware, which lets attackers use known flaws.
 
-Constant connectivity: The devices stay online at all times, which gives hackers more chances to attack.
+- Constant connectivity: The devices stay online at all times, which gives hackers more chances to attack.
 
 3. Mechanics of Cryptominer infections
 
