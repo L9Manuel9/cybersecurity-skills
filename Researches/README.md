@@ -17,15 +17,15 @@ new threats.
 
 ## Table of Contents
 
-1. Introduction
+1. A short overview
 
 2. Vulnerabilities in IoT Devices
+  
+3. Mechanics of Cryptominer infections
 
-3. Crucible of Cryptominer Infections 
+4. Impact of cryptominer infections on systems
 
-4. Effects of Cryptominer Infections on Systems
-
-5. Evolution of Cryptomining Tactics 
+5. Evolution of cryptomining techniques 
 
 - 5.1. Polymorphic Miners
 
@@ -33,9 +33,9 @@ new threats.
 
 - 5.3. C2C Communication Obfuscation
 
-6. Red Team Methodologies: Ethical Simulations in Cybersecurity
+6. Red Team methods: Ethical simulations in cybersecurity
 
-7. Strategic Mitigation Approaches
+7. How to prevent cryptominer attacks
 
 8. Case Studies
 
