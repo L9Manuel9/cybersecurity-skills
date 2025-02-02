@@ -36,7 +36,7 @@ Learn to use Burp Suite for web security tests through request interception or m
 
 - Proxy interception, Repeater, Intruder
 - The Extender adds plugins to Burp
-- SSL setup to check HTTPS traffic
+- SSL certificate setup to check HTTPS traffic
 
 ## Implementation Steps
 
