@@ -82,29 +82,29 @@ The bad actors upload harmful files through open services or use weak spots for 
 - System takeover:
 After setup miners add their code to startup programs to keep running after system restarts.
 
-4. Impact of cryptominer infections on systems
+## 4. Impact of cryptominer infections on systems
 
 A cryptominer infection affects device operation as well as system security in these ways:
 
-Performance drops: The device slows down or falters which hinders key tasks like surveillance.
+- Performance drops: The device slows down or falters which hinders key tasks like surveillance.
 
-Network overuse: The infected device makes too many connections to mining pools which sets off system alerts.
+- Network overuse: The infected device makes too many connections to mining pools which sets off system alerts.
 
-Resource problems: High CPU use causes heat breaks parts faster or makes devices stop working.
+- Resource problems: High CPU use causes heat breaks parts faster or makes devices stop working.
 
-5. Evolution of cryptomining techniques
+## 5. Evolution of cryptomining techniques
 
 The methods of cryptominers changed a lot over time. These programs now work in more complex ways along with better stealth:
 
-5.1. Polymorphic miners
+- 5.1. Polymorphic miners
 
 A polymorphic miner changes its code structure often to avoid standard security tools. The program's ability to transform makes removal or detection much harder.
 
-5.2. Worm-like behavior
+- 5.2. Worm-like behavior
 
 The newer miners spread by themselves through networks. They find weak spots or passwords as well as take over more computers fast.
 
-5.3. C2c communication obfuscation
+- 5.3. C2c communication obfuscation
 
 These programs hide their control signals in several ways:
 
@@ -112,7 +112,7 @@ These programs hide their control signals in several ways:
 
 ‒ The use of dns tunneling hides control signals inside regular traffic or makes network tracking more complex.
 
-6. Red Team methods: Ethical simulations in cybersecurity
+## 6. Red Team methods: Ethical simulations in cybersecurity
 
 Red Teams make systems safer through authorized attacks along with realistic tests:
 
