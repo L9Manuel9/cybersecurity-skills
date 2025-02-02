@@ -2,7 +2,7 @@
 
 ## Here you can find Writeups about some Interesting CTFs.
 
-## Researches i am proud of such as: Advanced threats from cryptominer infections in IoT devices
+## Researches such as: Advanced threats from cryptominer infections in IoT devices
 
 ## Documentations about Freelancing scenarios where you can take a look at my Methodology in both GDPR Inquiries and Troubleshooting.
 
