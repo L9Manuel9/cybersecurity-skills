@@ -1,5 +1,5 @@
 I Highly Suggest to also Read my Research Present in the Section Researches, Available from the Main-Tree Cybersecurity-skills
-Where we put an Eye of Awareness About Cryptominers.
+Where we put an Eye of Awareness About Cryptominers infections.
 
 # Understanding VPNs and Proxychains
 
