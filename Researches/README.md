@@ -116,40 +116,37 @@ These programs hide their control signals in several ways:
 
 Red Teams make systems safer through authorized attacks along with realistic tests:
 
-Tests with changing miners: Red Teams check how well defenses work against threats that adapt by copying different cryptomining attacks.
+- Tests with changing miners: Red Teams check how well defenses work against threats that adapt by copying different cryptomining attacks.
 
-Tests that copy worm behavior: These tests let companies know how fast they spot or stop malware that spreads by itself.
+- Tests that copy worm behavior: These tests let companies know how fast they spot or stop malware that spreads by itself.
 
-Rules for good behavior: Each test needs proper approval, written records as well as strict rules to prevent harm to company work.
+- Rules for good behavior: Each test needs proper approval, written records as well as strict rules to prevent harm to company work.
 
-
-7. How to prevent cryptominer attacks
+## 7. How to prevent cryptominer attacks
 
 Organizations need these methods to protect against cryptominer infections:
 
-Firmware updates: A regular update schedule helps fix security gaps.
+- Firmware updates: A regular update schedule helps fix security gaps.
 
-Better passwords: The enforcement of complex passwords along with scheduled changes limits access by attackers.
+- Better passwords: The enforcement of complex passwords along with scheduled changes limits access by attackers.
 
-Separate networks: The placement of IoT devices on their own network sections reduces large-scale attack risks.
+- Separate networks: The placement of IoT devices on their own network sections reduces large-scale attack risks.
 
-Active system checks: The use of IDS/IPS tools that spot odd traffic patterns lets teams find threats early.
+- Active system checks: The use of IDS/IPS tools that spot odd traffic patterns lets teams find threats early.
 
-Staff education: Teaching employees to spot as well as report strange device actions keeps security high.
+- Staff education: Teaching employees to spot as well as report strange device actions keeps security high.
 
-‒--
+## 8. Case studies
 
-8. Case studies
-
-Mirai Botnet
+- Mirai Botnet
+ 
 The Mirai botnet took control of IoT devices with weak security to create one of the most disruptive DDoS attacks ever seen. The attack proves why users must change factory passwords or face serious problems.
 
-Cryptojacking Incidents
+- Cryptojacking Incidents
+
 Many companies found attackers who used their computers to mine digital currencies. These attacks slowed down systems as well as cost money. The cases show why systems need constant monitoring along with fast response plans.
 
---
-
-9. Future Considerations and Recommendations
+## 9. Future Considerations and Recommendations
 
 - Invest in Threat Intelligence: Organizations should leverage threat intelligence solutions to stay updated on emerging vulnerabilities and attack vectors.
 
@@ -157,15 +154,11 @@ Many companies found attackers who used their computers to mine digital currenci
 
 - Establish Incident Response Plans: Develop and maintain clear incident response plans to enable swift action in the event of a cryptominer infection.
 
----
-
-10. Conclusion
+## 10. Conclusion
 
 The rise of advanced cryptominers next to weak spots in IoT devices requires direct action for cybersecurity. A company needs to know how cryptominers work or spread to protect its systems.
 
-‒--
-
-11. Key takeaways
+## 11. Key takeaways
 
 ‒ IP cameras along with other IoT tools need strict security rules.
 
