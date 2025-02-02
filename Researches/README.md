@@ -60,7 +60,7 @@ IoT devices have flaws which cybercriminals use for attacks:
 
 - Default credentials: Many devices come with basic factory usernames or passwords that attackers guess with ease to gain access.
 
-- Insecure web interfaces: Poor web service setup leads to risks like remote code attacks.
+- Insecure web interfaces: Poor web service setup leads to risks like remote code executions.
 
 - Infrequent software updates: A lot of IoT devices do not receive new firmware, which lets attackers use known flaws.
 
