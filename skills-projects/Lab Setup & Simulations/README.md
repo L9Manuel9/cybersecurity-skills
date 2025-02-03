@@ -6,25 +6,24 @@ However, sometimes i'll rather have greater control over the environment or wher
 
 ## Objective/Overview
 
-- Design and implement a Capture the Flag (CTF) environment to simulate real-world scenarios and test security skills in a controlled environment.
+- Design or build a Capture the Flag (CTF) setup that simulates actual scenarios to test security skills in a controlled space.
 
 ## Tools & Techniques
 
-- Virtual machine platforms (VirtualBox, VMware)
-- Vulnerable applications and custom scenarios
-- Networking components for realistic setups
+- Virtual machine software (VirtualBox, VMware)
+- Vulnerable apps next to custom scenarios
+- Network parts for realistic environments
 
 ## Implementation Steps
 
-1. Plan the CTF objectives, deciding on the skills to test (e.g., exploiting LFI, gaining root access).
-2. Set up virtual machines, including intentionally vulnerable environments like Metasploitable or DVWA.
-3. Deploy flags within various target systems and draft challenge guidelines.
-4. Observe the methodology of participants, providing feedback to enhance their learning experience.
+1. The first task includes planning CTF objectives or deciding which skills to test (e.g. LFI exploits root access paths).
+2. A complete setup needs virtual machines along with vulnerable environments, such as Metasploitable or DVWA.
+3. Set flags inside target systems as well as create challenge guidelines.
+4. Observe the methodology of participants, giving feedback that helps them learn better.
 
 ## Key Takeaways
-
-- Provides a safe platform for skills development.
-- Encourages collaborative learning and problem-solving techniques.
+- The setup offers a safe space for skill growth.
+- Also promotes teamwork in learning or solving problems.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 
