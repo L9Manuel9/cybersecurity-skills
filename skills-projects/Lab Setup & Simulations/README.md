@@ -31,47 +31,45 @@ However, sometimes i'll rather have greater control over the environment or wher
 
 ## Objective/Overview
 
-- Create a virtual lab with multiple linked machines to practice penetration tests along with network security studies.
+- A virtual lab with multiple connected machines helps practice penetration tests as well as network security analysis.
 
 ## Tools & Techniques
 
-- Virtualization software to run multiple VMs (VirtualBox or KVM)
+- Virtualization software to run multiple VMs (VirtualBox, VMware)
 - Router and network configuration for isolated practice environments
 - Ready-made vulnerable virtual machines
 
 ## Implementation Steps
 
-1. Set up a virtual network that includes machines set as real targets such as Linux or Windows systems.
-2. Add network divisions to allow separate tests in controlled situations.
-3. Install various pentesting tools and resources on attacker machines.
-4. Save configurations as well as results for learning or portfolio proof.
+1. Build a virtual network that connects machines set as real targets such as Linux or Windows systems.
+2. Network segments to split test areas in controlled spaces.
+3. Install various pentesting tools and resources on the attacker machine.
+4. Keep records configurations as well as results for learning purposes or portfolio proof.
 
 ## Key Takeaways
-
-- Facilitates secure practice and experimentation.
-- The lab lets users reproduce real attack situations to learn about risks or defenses.
+- The lab makes practice or tests safe.
+- Users can reproduce real attack cases to learn about risks or improve defenses.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Brute Force Attack Simulation
 
 ## Objective/Overview
 
-- Simulate brute force attacks to test system and application resilience to such techniques in a secure and controlled environment.
+- Test how systems or applications resist brute force methods in a secure and controlled environment.
 
 ## Tools & Techniques
 
 - Brute force tools like Hydra or Burp Suite Intruder
-- Customized wordlists reflecting realistic attack vectors
-- Monitoring for failed attempts, lockout capabilities
+- Selected word lists that match real attack patterns
+- Monitoring to check failed login tries or lockouts
 
 ## Implementation Steps
 
-1. Identify target credentials or authentication points within controlled environments.
-2. Deploy brute force tools mimicking realistic attack scenarios using prepared wordlists.
-3. Measure system response time, account lockout policies, and potential exploitation results.
-4. Summarize simulation outcomes and suggest improvements for authentication security or user awareness.
+1. A test must select specific login points in test areas.
+2. The attack tools need proper setup with planned word lists.
+3. Record how fast systems respond or lock accounts.
+4. Write reports about test results or needed security fixes.
 
 ## Key Takeaways
-
-- Helps assess effectiveness of password policies and account lockout strategies.
-- Provides insights for strengthening authentication resilience against brute force threats.
+- Shows how well password rules or lockouts work.
+- Helps make login systems more secure from attacks.
