@@ -44,7 +44,7 @@ However, sometimes i'll rather have greater control over the environment or wher
 1. Build a virtual network that connects machines set as real targets such as Linux or Windows systems.
 2. Network segments to split test areas in controlled spaces.
 3. Install various pentesting tools and resources on the attacker machine.
-4. Keep records configurations as well as results for learning purposes or portfolio proof.
+4. Keep records of configurations as well as results for learning purposes or portfolio proof.
 
 ## Key Takeaways
 - The lab makes practice or tests safe.
