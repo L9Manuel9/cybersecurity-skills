@@ -31,25 +31,25 @@ However, sometimes i'll rather have greater control over the environment or wher
 
 ## Objective/Overview
 
-- Create a virtual lab consisting of multiple interconnected machines to practice penetration testing techniques and explore network security.
+- Create a virtual lab with multiple linked machines to practice penetration tests along with network security studies.
 
 ## Tools & Techniques
 
-- Virtualization software for multiple VMs (VirtualBox, KVM)
+- Virtualization software to run multiple VMs (VirtualBox or KVM)
 - Router and network configuration for isolated practice environments
-- Pre-built vulnerable virtual machines
+- Ready-made vulnerable virtual machines
 
 ## Implementation Steps
 
-1. Build a virtual network with machines configured as real-world targets including Linux, Windows, and web applications.
-2. Implement network segmentation allowing for isolated interactions and controlled test scenarios.
+1. Set up a virtual network that includes machines set as real targets such as Linux or Windows systems.
+2. Add network divisions to allow separate tests in controlled situations.
 3. Install various pentesting tools and resources on attacker machines.
-4. Record configurations and experiences for educational or evidentiary use in portfolio showcases.
+4. Save configurations as well as results for learning or portfolio proof.
 
 ## Key Takeaways
 
 - Facilitates secure practice and experimentation.
-- Helps reproduce scenarios necessary for comprehending vulnerabilities and defenses.
+- The lab lets users reproduce real attack situations to learn about risks or defenses.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Brute Force Attack Simulation
