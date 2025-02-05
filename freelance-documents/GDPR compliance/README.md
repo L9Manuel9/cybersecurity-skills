@@ -24,7 +24,7 @@ I've Summarized each document content as follow:
 
 3. Cybersecurity Competence: The regulation's Article 25 points out that data controllers must put in place proper technical or organizational steps. A system manager needs to grow into a well versed security specialist who checks system flaws at regular times as well as sets up very precise data protection rules..
 
-The absence of any one of these competencies can weaken the privacy system within organizations, making effective management of GDPR compliance challenging.
+The lack of a single required competence undermines an organization's data protection setup and makes it difficult to handle GDPR rules correctly..
 
 ## #2 This document outlines Article 5 of the GDPR, which specifies the principles applicable to the processing of personal data:
 
