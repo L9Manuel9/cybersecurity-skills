@@ -174,4 +174,6 @@ How to Use This Document:
 
 This document is your "bible" for the GDPR. Study it, make it yours, and use it to guide your work. Good luck.
 
+You can find it in the GDPR (Optimize) subfolder, within this folder. as a instantly available README.md .
+
 
