@@ -2,4 +2,4 @@
 
 ## In the first case, a request regarding GDPR compliance. 
 
-## In the second case, it is a request for assistance regarding a UniFi Protect room connected to a network managed by: Cloud Core Router MikroTik, with a dedicated VLAN. 
+## In the second case, it is a Troubleshooting request regarding a UniFi Protect Camera connected to a network managed by: Cloud Core Router MikroTik, with a dedicated VLAN. 
