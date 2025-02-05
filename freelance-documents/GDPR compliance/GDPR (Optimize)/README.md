@@ -176,23 +176,23 @@ Accesso, rettifica, opposizione, cancellazione, portabilità dei dati.
 
 ## 7. Caratteristiche di un'Informativa Privacy GDPR Compliant:
 
-Proprietario del sito/app.
+- Proprietario del sito/app.
 
-Dati trattati e modalità di trattamento.
+- Dati trattati e modalità di trattamento.
 
-Base giuridica del trattamento.
+- Base giuridica del trattamento.
 
-Finalità del trattamento.
+- Finalità del trattamento.
 
-Terze parti con accesso alle informazioni.
+- Terze parti con accesso alle informazioni.
 
-Trasferimento dati all'estero e relative garanzie.
+- Trasferimento dati all'estero e relative garanzie.
 
-Diritti degli utenti.
+- Diritti degli utenti.
 
-Processo per la notifica di modifiche alla privacy policy.
+- Processo per la notifica di modifiche alla privacy policy.
 
-Data effettiva.
+- Data effettiva.
 
 ## Conclusioni:
 
