@@ -1,4 +1,4 @@
-# Here we can see the documentations I created               to fulfill my clients' needs.
+# Here we can see the documentations I created to fulfill my clients' needs.
 
 ## In the first case, a request regarding GDPR compliance. 
 
