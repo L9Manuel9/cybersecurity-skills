@@ -151,7 +151,7 @@ Organizations must apply suitable safeguards to protect data from breaches along
 
 The document offers a really detailed summary of requirements as well as duties that help businesses achieve GDPR compliance next to develop good practices for protecting personal information.
 
-## #5 This document outlines the legal bases for processing personal data under the GDPR. According to the regulation, data can only be processed if at least one legal basis exists. Here’s a summary of the possible legal bases for processing:
+## #5  This document explains the main reasons that allow companies to process personal data under the GDPR. According to European law businesses must have at least one valid reason to handle any personal information. The legal grounds for such data processing include:
 
 1. Consent: The user has given explicit consent for one or more specific purposes.
 
