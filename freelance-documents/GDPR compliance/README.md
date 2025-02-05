@@ -14,7 +14,6 @@ and from various blogs and security sources.
 
 Then, I've Created Various documents where i made a  more in-depth Analysis of Key concepts.
 
-With the proper permission. Since now i've uploaded each Document as part of my Portfolio, make them available to everyone interested.
 I've Summarized each document content as follow:
 
 ## #1 This document outlines the three key competencies essential for GDPR compliance: legal, managerial, and cybersecurity.
