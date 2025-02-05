@@ -3,197 +3,198 @@
 
 This Document work as a Bible for GDPR Compliance.
 
-## 1. Le Tre Competenze Chiave:
+## 1. The Three Key Competencies:
 
-## Legale:
+## Legal:
 
-Importanza: Il GDPR è una normativa con regole e misure da rispettare. La competenza legale è fondamentale per interpretare la legge e applicarla correttamente.
+Importance: The GDPR is a regulation with rules and measures to comply with. Legal competence is essential to interpret the law and apply it correctly.
 
-- Obiettivi:
+Objectives:
 
-Predisporre informative privacy adeguate alle diverse finalità di trattamento.
+- Prepare privacy notices appropriate for different processing purposes.
 
-Identificare correttamente le figure coinvolte nel trattamento dei dati (addetti, responsabili esterni).
+- Correctly identify those involved in data processing (employees, external managers).
 
-Evitare documentazione errata o non necessaria.
+- Avoid incorrect or unnecessary documentation.
 
-Adeguare la contrattualistica aziendale alle evoluzioni normative.
+- Adapt company contracts to regulatory changes.
 
-Gestire la raccolta dei consensi.
+- Manage the collection of consents.
 
-- Applicazione Pratica: L'aspetto legale non è solo un adempimento formale, ma guida le scelte pratiche dell'azienda, che devono essere orientate alla piena conformità.
+Practical Application: The legal aspect is not just a formal compliance, but guides the company's practical choices, which must be geared toward full compliance.
 
-## Gestionale:
+## Management:
 
-Importanza: Il GDPR ha un impatto organizzativo significativo. Il titolare del trattamento (art. 4 GDPR) è colui che decide finalità e mezzi del trattamento in base alla propria organizzazione e attività.
+Significance: GDPR has a significant organizational impact. The data controller (Art. 4 GDPR) is the one who decides the purposes and means of processing based on his or her organization and activities.
 
-- Obiettivi:
+Objectives:
 
-Comprendere i flussi di gestione dei dati.
+- Understand data management flows.
 
-Definire le modalità di comunicazione interna ed esterna.
+- Define internal and external communication methods.
 
-Individuare i sistemi informatici e non utilizzati per il trattamento dei dati.
+- Identify the computer and non-computer systems used for data processing.
 
-Predisporre il registro dei trattamenti.
+- Prepare the processing log.
 
-Applicazione Pratica: Un approccio gestionale efficiente previene la "burocratizzazione" del GDPR, evitando procedure inutili o limitazioni delle funzioni aziendali.
+Practical Application: An efficient management approach prevents the “bureaucratization” of GDPR, avoiding unnecessary procedures or limitations of business functions.
 
-## Sicurezza Informatica (Cybersecurity):
+## Information Security (Cybersecurity):
 
-Importanza: L'art. 25 del GDPR richiede misure tecniche e organizzative adeguate per proteggere i dati.
+Importance: Article 25 of the GDPR requires appropriate technical and organizational measures to protect data.
 
-- Obiettivi:
+Objectives:
 
-Evolvere la competenza da "sistemista" a "esperto di cybersecurity".
+- Evolve competence from “systems engineer” to “cybersecurity expert.”
 
-Effettuare analisi periodiche delle vulnerabilità.
+- Conduct periodic vulnerability analyses.
 
-Verificare backup, disaster recovery e business continuity.
+- Verify backup, disaster recovery and business continuity.
 
-Adottare protocolli di sicurezza (profilazione accessi, crittografia, pseudonimizzazione).
+- Adopt security protocols (access profiling, encryption, pseudonymization).
 
-Gestire i periodi di conservazione dei dati.
+- Manage data retention periods.
 
-- Applicazione Pratica: La cybersecurity non è solo una questione tecnica, ma è un elemento fondamentale per garantire la sicurezza dei dati personali e aziendali.
+Practical Application: Cybersecurity is not just a technical issue; it is a key element in ensuring the security of personal and business data.
 
-## 2. I Principi del GDPR (Art. 5):
 
-Liceità, Correttezza e Trasparenza: Trattare i dati in modo lecito, corretto e trasparente verso l'interessato.
+## 2. The GDPR Principles (Art. 5):
 
-Limitazione delle Finalità: Raccogliere i dati per finalità specifiche, esplicite e legittime.
+- Lawfulness, Fairness and Transparency: To process data lawfully, fairly and transparently to the data subject.
 
-Minimizzazione dei Dati: Raccogliere solo i dati necessari per le finalità dichiarate.
+- Purpose Limitation: Collect data for specific, explicit and legitimate purposes.
 
-Esattezza: Mantenere i dati esatti e aggiornati.
+- Data Minimization: Collect only the data necessary for the stated purposes.
 
-Limitazione della Conservazione: Conservare i dati solo per il tempo necessario.
+- Accuracy: Keep data accurate and up-to-date.
 
-Integrità e Riservatezza: Proteggere i dati da trattamenti non autorizzati o illeciti.
+- Retention Limitation: Retain data only as long as necessary.
 
-Responsabilizzazione: Dimostrare la conformità al GDPR.
+- Integrity and Confidentiality: Protect data from unauthorized or unlawful processing.
 
-## 3. Cosa Significa GDPR Compliance:
+- Accountability: Demonstrate compliance with the GDPR.
 
-- Definizione: Conformità ai requisiti del Regolamento Generale sulla Protezione dei Dati.
+## 3. What GDPR Compliance Means:
 
-- Obiettivo: Proteggere i dati personali e la privacy degli individui.
+Definition: Compliance with the requirements of the General Data Protection Regulation.
 
-- Aspetti Chiave:
+Goal: To protect the personal data and privacy of individuals.
 
-Principi fondamentali per il trattamento dei dati.
+Key Aspects:
 
-Diritti degli interessati (accesso, rettifica, cancellazione, ecc.).
+- Basic principles for data processing.
 
-Consenso libero, specifico, informato ed esplicito.
+- Rights of data subjects (access, rectification, erasure, etc.).
 
-  Privacy by design e privacy by default.
+- Free, specific, informed and explicit consent.
 
-Valutazione d'impatto sulla protezione dei dati (DPIA).
+- Privacy by design and privacy by default.
 
-Notifica delle violazioni dei dati (data breach).
+- Data protection impact assessment (DPIA).
 
-Responsabile della protezione dei dati (DPO).
+- Data breach notification (data breach).
 
-Restrizioni al trasferimento di dati fuori dall'UE.
+- Data protection officer (DPO).
 
-Responsabilità nel dimostrare la conformità.
+- Restrictions on transfer of data outside the EU.
 
-## 4. Come Essere GDPR Compliant:
+- Responsibilities in demonstrating compliance.
 
-- Verifica l'Applicabilità del GDPR: Controlla se la tua organizzazione è soggetta al GDPR.
+## 4. How to Be GDPR Compliant:
 
-- Identifica i Dati Personali Trattati: Definisci quali dati raccogli, perché, da dove provengono e chi vi ha accesso.
+- Check GDPR Applicability: Check if your organization is subject to GDPR.
 
-- Base Giuridica per il Trattamento: Assicurati di avere una base giuridica valida per ogni trattamento (consenso, contratto, obbligo di legge, interesse vitale, interesse pubblico, legittimo interesse).
+- Identify the Personal Data Processed: Define what data you collect, why, where it comes from, and who has access to it.
 
-- Misure di Sicurezza: Implementa misure tecniche e organizzative adeguate per proteggere i dati.
+- Legal Basis for Processing: Make sure you have a valid legal basis for any processing (consent, contract, legal obligation, vital interest, public interest, legitimate interest).
 
-- Privacy Policy: Comunica in modo chiaro agli utenti come utilizzi i loro dati e quali sono i loro diritti.
+- Security Measures: Implement appropriate technical and organizational measures to protect the data.
 
-- Gestione Richieste Utenti: Preparati a gestire rapidamente le richieste degli utenti.
+- Privacy Policy: Clearly communicates to users how it uses their data and what their rights are.
 
-- DPO (Se Necessario): Nomina un Responsabile della protezione dei dati (DPO) se è obbligatorio o opportuno.
+- User Request Management: Be prepared to handle user requests quickly.
 
-- Formazione: Assicurati che tutti siano a conoscenza del GDPR.
+- DPO (If Necessary): Appoint a Data Protection Officer (DPO) if it is mandatory or appropriate.
 
-- Monitoraggio: Monitora la conformità per risolvere eventuali problemi.
+- Training: Make sure everyone is aware of the GDPR.
 
-## 5. Basi Giuridiche per il Trattamento:
+- Monitoring: Monitor compliance to resolve any problems.
 
-Consenso: L'utente ha prestato il consenso per finalità specifiche.
+## 5. Legal Basis for Processing:
 
-Esecuzione di un Contratto: Il trattamento è necessario per eseguire un contratto o per azioni precontrattuali.
+- Consent: The user has given consent for specific purposes.
 
-Obbligo di Legge: Il trattamento è necessario per adempiere a un obbligo di legge.
+- Performance of a Contract: Processing is necessary to perform a contract or for pre-contractual actions.
 
-Interesse Vitale: Il trattamento è necessario per la tutela di interessi vitali.
+- Legal Obligation: Processing is necessary to fulfill a legal obligation.
 
-Interesse Pubblico: Il trattamento è necessario per un'attività di interesse pubblico.
+- Vital Interest: Processing is necessary for the protection of vital interests.
 
-Legittimo Interesse: Il trattamento è necessario per il legittimo interesse del titolare o di terzi (a meno che non prevalgano gli interessi, i diritti e le libertà dell'interessato).
+- Public Interest: Processing is necessary for an activity in the public interest.
 
-## 6. Passaggi per la Compliance:
+- Legitimate Interest: Processing is necessary for the legitimate interest of the data controller or a third party (unless the interests, rights and freedoms of the data subject prevail).
 
-- Il GDPR si Applica a Te?:
+## 6. Steps to Compliance:
 
-  Sede nell'UE, offerta di beni/servizi a persone nell'UE, monitoraggio del comportamento di persone nell'UE.
+Does GDPR Apply to You?
 
-- Tratti Dati Personali?:
+- Based in the EU, offering goods/services to people in the EU, monitoring the behavior of people in the EU.
 
-Definizione di dato personale: "qualunque dato relativo a una persona fisica identificata o identificabile".
+Do you process Personal Data?:
 
-Base giuridica valida per il trattamento.
+- Definition of Personal Data: “any data relating to an identified or identifiable natural person.”
 
-rivacy policy chiara e accessibile.
+- Valid legal basis for processing.
 
-- La Tua Base Giuridica è il Consenso?:
+- clear and accessible Privacy policy.
 
-Consenso esplicito e prestato liberamente.
+- Your Legal Basis is Consent?:
 
-Registro dei consensi.
+- Explicit and freely given consent.
 
-- Tieni i Dati al Sicuro?:
+- Record of Consent.
 
-Misure tecniche e organizzative adeguate (crittografia, pseudonimizzazione).
+Keep Data Safe?:
 
- Formazione del personale.
+- Appropriate technical and organizational measures (encryption, pseudonymization).
 
- Valutazione d'impatto sulla protezione dei dati (DPIA).
+- Staff training.
 
-Processo di notifica delle violazioni dei dati.
+- Data protection impact assessment (DPIA).
 
-- Chi è Responsabile della Compliance?:
+- Data breach notification process.
 
-Responsabile della protezione dei dati (DPO) (se necessario).
+- Who is Responsible for Compliance:
 
-Rappresentante UE (se sei fuori dall'UE).
+- Data Protection Officer (DPO) (if needed).
 
-- Sei in Grado di Rispondere alle Richieste Utenti?:
+- EU Representative (if you are outside the EU).
 
-Accesso, rettifica, opposizione, cancellazione, portabilità dei dati.
+Are you able to Respond to User Requests?:
 
-## 7. Caratteristiche di un'Informativa Privacy GDPR Compliant:
+- Access, rectification, objection, deletion, data portability.
 
-- Proprietario del sito/app.
+## 7. Features of a GDPR Compliant Privacy Policy:
 
-- Dati trattati e modalità di trattamento.
+- Site/app owner.
 
-- Base giuridica del trattamento.
+- Data processed and methods of processing.
 
-- Finalità del trattamento.
+- Legal basis of processing.
 
-- Terze parti con accesso alle informazioni.
+- Purposes of processing.
 
-- Trasferimento dati all'estero e relative garanzie.
+- Third parties with access to information.
 
-- Diritti degli utenti.
+- Data transfer abroad and related guarantees.
 
-- Processo per la notifica di modifiche alla privacy policy.
+- Rights of users.
 
-- Data effettiva.
+- Process for notification of changes to the privacy policy.
 
-## Conclusioni:
+- Effective date.
 
-La conformità al GDPR non è solo una questione di adempimento legale, ma un impegno costante per la protezione dei dati personali. Le tre competenze chiave 
-(legale, gestionale e sicurezza informatica) devono essere integrate e utilizzate in sinergia per garantire un sistema privacy efficace e robusto.
+## Conclusion:
+
+GDPR compliance is not just a matter of legal compliance, but an ongoing commitment to protecting personal data. The three core competencies 
+(legal, management, and information security) must be integrated and used in synergy to ensure an effective and robust privacy system.
