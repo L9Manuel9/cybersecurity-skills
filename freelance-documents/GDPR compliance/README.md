@@ -144,3 +144,19 @@ Ensuring Data Security:
 Organizations must take appropriate technical and organizational measures to protect data from breaches, conduct DPIAs as necessary, and have processes in place for breach notification.
 
 This document provides a comprehensive overview of the requirements and responsibilities for achieving GDPR compliance, guiding organizations in implementing effective data protection practices.
+
+## #5 This document outlines the legal bases for processing personal data under the GDPR. According to the regulation, data can only be processed if at least one legal basis exists. Here’s a summary of the possible legal bases for processing:
+
+1. Consent: The user has given explicit consent for one or more specific purposes.
+
+2. Contractual Necessity: The processing of data is necessary for the performance of a contract to which the user is a party, or to take steps at the request of the user prior to entering into a contract.
+
+3. Legal Obligation: Processing is necessary for compliance with a legal obligation to which the data controller is subject.
+
+4. Vital Interests: Processing is necessary to protect the vital interests of the user or another individual.
+
+5. Public Task: Processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the data controller.
+
+6. Legitimate Interests: Processing is necessary for the legitimate interests of the data controller or a third party, unless overridden by the interests, rights, and freedoms of the user, particularly if the user is a minor.
+
+
