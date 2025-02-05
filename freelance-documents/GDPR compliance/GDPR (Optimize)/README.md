@@ -2,6 +2,7 @@
 # Introduction:
 
 This document aim to help you in a Better Understanding of GDPR.
+And makes a guide to Fulfill the GDPR Compliance.
 
 ## 1. The Three Key Competencies:
 
