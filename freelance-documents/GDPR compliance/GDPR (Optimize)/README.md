@@ -1,8 +1,7 @@
 
 # Introduzione:
 
-Questo documento riassume i concetti fondamentali del GDPR, ponendo particolare enfasi sulle tre competenze chiave necessarie per una corretta gestione della privacy in azienda: 
-legale, gestionale e sicurezza informatica. Una lacuna anche in una sola di queste aree può compromettere la protezione dei dati.
+This Document work as a Bible for GDPR Compliance.
 
 ## 1. Le Tre Competenze Chiave:
 
