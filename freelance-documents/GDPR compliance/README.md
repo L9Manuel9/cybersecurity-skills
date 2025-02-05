@@ -18,11 +18,11 @@ I've Summarized each document content as follow:
 
 ## #1 This document outlines the three key competencies essential for GDPR compliance: legal, managerial, and cybersecurity.
 
-1. Legal Competence: This aspect focuses on understanding the regulatory framework, helping in the preparation of documentation such as privacy notices tailored to different processing purposes and ensuring the correct identification of roles and responsibilities within the organization.
+1. Legal Competence: The staff needs to know regulations along with methods to create documents like privacy notices. These notices must match different data uses. A company should also set up clear roles or duties for everyone involved.
 
-2. Managerial Competence: The GDPR is primarily an organizational matter, emphasizing the importance of the data controller's role. This includes determining the purposes and means of data processing, maintaining a record of processing activities, and ensuring clear communication flows within and outside the organization.
+2. Managerial Competence: The GDPR needs proper organization with the data controller as a key person. This leader must decide how to process data and why. The controller keeps track of data activities plus sets up clear ways to share info inside or outside the business. .
 
-3. Cybersecurity Competence: Article 25 of the regulation highlights the need for the data controller to implement adequate technical and organizational measures. This requires evolving from a mere systems administrator role to a cybersecurity expert, periodically checking vulnerabilities and ensuring proper data security protocols are in place.
+3. Cybersecurity Competence: The regulation's Article 25 points out that data controllers must put in place proper technical or organizational steps. A system manager needs to grow into a well versed security specialist who checks system flaws at regular times as well as sets up very precise data protection rules..
 
 The absence of any one of these competencies can weaken the privacy system within organizations, making effective management of GDPR compliance challenging.
 
