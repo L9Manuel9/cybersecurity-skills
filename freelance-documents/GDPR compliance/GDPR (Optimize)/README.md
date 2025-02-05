@@ -1,7 +1,7 @@
 
 # Introduzione:
 
-This Document work as a Bible for GDPR Compliance.
+This document aim to help you in a Better Understanding of GDPR.
 
 ## 1. The Three Key Competencies:
 
