@@ -1,5 +1,5 @@
 
-# Introduzione:
+# Introduction:
 
 This document aim to help you in a Better Understanding of GDPR.
 
