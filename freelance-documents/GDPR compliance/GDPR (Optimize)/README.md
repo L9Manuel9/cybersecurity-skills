@@ -122,17 +122,17 @@ Responsabilità nel dimostrare la conformità.
 
 ## 5. Basi Giuridiche per il Trattamento:
 
-    Consenso: L'utente ha prestato il consenso per finalità specifiche.
+Consenso: L'utente ha prestato il consenso per finalità specifiche.
 
-    Esecuzione di un Contratto: Il trattamento è necessario per eseguire un contratto o per azioni precontrattuali.
+Esecuzione di un Contratto: Il trattamento è necessario per eseguire un contratto o per azioni precontrattuali.
 
-    Obbligo di Legge: Il trattamento è necessario per adempiere a un obbligo di legge.
+Obbligo di Legge: Il trattamento è necessario per adempiere a un obbligo di legge.
 
-    Interesse Vitale: Il trattamento è necessario per la tutela di interessi vitali.
+Interesse Vitale: Il trattamento è necessario per la tutela di interessi vitali.
 
-    Interesse Pubblico: Il trattamento è necessario per un'attività di interesse pubblico.
+Interesse Pubblico: Il trattamento è necessario per un'attività di interesse pubblico.
 
-    Legittimo Interesse: Il trattamento è necessario per il legittimo interesse del titolare o di terzi (a meno che non prevalgano gli interessi, i diritti e le libertà dell'interessato).
+Legittimo Interesse: Il trattamento è necessario per il legittimo interesse del titolare o di terzi (a meno che non prevalgano gli interessi, i diritti e le libertà dell'interessato).
 
 ## 6. Passaggi per la Compliance:
 
