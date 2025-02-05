@@ -147,9 +147,9 @@ A compliant privacy notice must specify:
 
 ## Ensuring Data Security:
 
-Organizations must take appropriate technical and organizational measures to protect data from breaches, conduct DPIAs as necessary, and have processes in place for breach notification.
+Organizations must apply suitable safeguards to protect data from breaches along with set up technical controls, perform DPIAs when needed or establish clear steps for breach notification.
 
-This document provides a comprehensive overview of the requirements and responsibilities for achieving GDPR compliance, guiding organizations in implementing effective data protection practices.
+The document offers a really detailed summary of requirements as well as duties that help businesses achieve GDPR compliance next to develop good practices for protecting personal information.
 
 ## #5 This document outlines the legal bases for processing personal data under the GDPR. According to the regulation, data can only be processed if at least one legal basis exists. Here’s a summary of the possible legal bases for processing:
 
