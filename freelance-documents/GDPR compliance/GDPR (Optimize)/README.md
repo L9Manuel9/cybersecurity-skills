@@ -3,7 +3,7 @@
 
 This document aim to help you in a Better Understanding of GDPR.
 
-And how to Achieve GDPR Compliance.
+And as a guide in how to Achieve GDPR Compliance.
 
 ## 1. The Three Key Competencies:
 
