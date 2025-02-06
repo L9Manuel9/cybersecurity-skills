@@ -144,8 +144,8 @@ Demonstrate how changing one’s MAC address can bypass basic network filters or
 4. Test connectivity or bypass MAC-based security controls if they exist.
 
 ## Key Takeaways
-- Highlights the weakness of MAC-based security mechanisms.
-- More robust solutions (e.g., 802.1X) are necessary to prevent spoofing attacks.
+- Draws attention to the weakness of MAC-based security mechanisms.
+- Stronger solutions (like 802.1X) are required to stop spoofing attempts.
 
 Note: I did it also on my Main desktop. Which is on Qubes 4.2 at Dom0 level, as part of my Initial Anonymizing Procedure.
 
