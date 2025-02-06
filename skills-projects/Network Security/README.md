@@ -30,13 +30,13 @@ Capture and inspect raw network data to find anomalies, harmful traffic, or vuln
 ## Tools & Techniques
 - To visually examine packets depthly, use Wireshark.
 - To quickly collect packets via command line , use tcpdump
-- Understanding about TCP, UDP, DNS, HTTP, and other protocols
+- Understanding TCP, UDP, DNS, HTTP, and other protocols
 
 ## Implementation Steps
 1. On the selected interface, start Wireshark or tcpdump. Turn on promiscuous mode when necessary.
 2. Set up filters, (e.g. tcp.port == 80), to remove noise and target specific traffic.
 3. Look for anomalies or unencrypted credentials in the packet contents.
-4. For offline analysis and future reference, save.pcap files.
+4. For offline analysis and future reference, save .pcap files.
 
 ## Key Takeaways
 - Reveals cleartext credentials and insecure protocols in use.
