@@ -103,25 +103,25 @@ Investigate how web sessions work, including cookie-based authentication and pot
 
 ## Objective/Overview 
 
-Review firewall, IDS, or server logs to detect suspicious patterns indicating attacks or unauthorized access attempts.
+Examine server logs, firewall, or Intrusion Detection System logs for any unusual patterns that could point to intrusions or illegal access attempts.
 
 ## Tools & Techniques
 
-- Splunk, ELK stack (Elasticsearch, Logstash, Kibana)
-- Searching for abnormal traffic patterns (high volume, repeated failures)
-- Correlating events across multiple log sources
+- Splunk with the ELK stack (Logstash, Kibana, and Elasticsearch)
+- Looking for unusual traffic patterns, such as high volume or recurring failures
+- Linking occurrences from several log sources
 
 ## Implementation Steps
 
-1. Aggregate logs in a centralized tool (e.g., Kibana) or use command-line parsing (e.g., grep, awk).
-2. Search for anomalies—unusual IP addresses, frequent authentication failures.
-3. Create dashboards or alerts for repeated suspicious behavior.
-4. Investigate suspicious events, cross-referencing with threat intelligence if available.
+1. Logs can be combined in a centralized application (like Kibana) or parsed using command-line tools (like grep and awk).
+2. Look for irregularities, such as strange IP addresses or recurring authentication issues.
+3. Make alerts or dashboards for persistently questionable activity.
+4. Examine suspicious occurrences and, if available, cross-reference with threat intelligence.
 
 ## Key Takeaways
 
-- Proactive log analysis can detect intrusions early.
-- Helps refine security controls and incident response plan
+- Early intrusion detection is possible with proactive log analysis.
+- Helps refine security controls and incident response procedures.
 
 TryHackMe: https://tryhackme.com/r/room/introtosiem & https://tryhackme.com/r/room/idsfundamentals
 
