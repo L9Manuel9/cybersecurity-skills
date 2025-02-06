@@ -78,25 +78,25 @@ TryHackMe: https://tryhackme.com/r/room/passiverecon
 
 ## Objective/Overview 
 
-Investigate how web sessions work, including cookie-based authentication and possible session hijacking methods.
+Investigate how web sessions work, including cookie-based authentication and potential techniques for session hijacking
 
 ## Tools & Techniques
 
-- Browser dev tools, Burp Suite
-- Inspecting Set-Cookie headers
+- Development tools in browsers, Burp Suite
+- Looking at the Set-Cookie headers
 - Session fixation or hijacking concepts
 
 ## Implementation Steps
 
 1. Log in to a test web application, note the session ID in cookies.
-2. Observe how the session ID changes upon logout or different flows.
-3. Attempt to reuse the same cookie from another browser or device.
-4. Document if the application properly invalidates sessions upon logout.
+2. As you log out or travel through several processes, note how the session ID changes.
+3. Try using the identical cookie on a different browser or device.
+4. Note if the application properly invalidates sessions upon logout.
 
 ## Key Takeaways
-
-- Essential to securing user authentication.
-- Without secure cookies, an attacker might hijack sessions for unauthorized access.
+ 
+- Vital to safeguarding user authentication.
+- Unauthorized access might be gained by an attacker if secure cookies are not used.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Analyzing Network Logs for Intrusions
