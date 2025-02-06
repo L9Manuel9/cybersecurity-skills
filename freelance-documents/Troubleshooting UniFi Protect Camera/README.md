@@ -4,8 +4,7 @@
 #### Connected to a network managed by a: MikroTik Cloud Core Router
 ##### With a dedicated VLAN.
 
-Issue: The Internet is working properly, but there are occasional disconnections that make the
-UniFi Protect system unreachable from the outside
+#### Issue: The Internet is working properly, but there are occasional disconnections that make the UniFi Protect system unreachable from the outside
 
 Hypothesis: Client suggests it may be a problem related to some firewall rule
 on MikroTik
