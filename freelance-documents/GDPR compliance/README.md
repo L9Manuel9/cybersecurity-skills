@@ -44,7 +44,7 @@ Accountability: The organization that manages data has to follow all rules along
 
 The rules demand that every task with confidential details stays within the law next to ethical practices. A company needs clear communication to people about its methods for gathering information or personal data. Organizations must explain the list of rights to users about their records. The guidelines form a foundation for proper data management that matches European privacy standards. These steps really aid in safeguarding records in digital settings..
 
-## #3 This document outlines the seven principles of the GDPR (Similar information as stated by Article 5) as follows:
+## #3 This document outlines the seven principles of the GDPR (information related as stated by Article 5) as follows:
 
 1. Fairness and Transparency
 Organizations need a legal reason to process data. A company must be open about its data practices or disclose its privacy rules upfront. Users should know how their info gets used.
