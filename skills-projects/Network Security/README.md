@@ -25,16 +25,16 @@ TryHackMe: https://tryhackme.com/r/module/nmap
 
 ## Objective/Overview
 
-Capture and examine raw network data to find anomalies, harmful traffic, or vulnerabilities in data flow.
+Capture and inspect raw network data to find anomalies, harmful traffic, or vulnerabilities in data flow.
 
 ## Tools & Techniques
-- To visually examine packets in depth, use Wireshark.
+- To visually examine packets depthly, use Wireshark.
 - To quickly collect packets via command line , use tcpdump
-- Familiarity about TCP, UDP, DNS, HTTP, and other protocols
+- Understanding about TCP, UDP, DNS, HTTP, and other protocols
 
 ## Implementation Steps
 1. On the selected interface, start Wireshark or tcpdump. Turn on promiscuous mode when necessary.
-2. Set up filters, such as- tcp.port == 80, to remove noise and target specific traffic.
+2. Set up filters, (e.g. tcp.port == 80), to remove noise and target specific traffic.
 3. Look for anomalies or unencrypted credentials in the packet contents.
 4. For offline analysis and future reference, save.pcap files.
 
