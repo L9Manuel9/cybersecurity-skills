@@ -69,7 +69,7 @@ or accidental damage (integrity and confidentiality)
 2. The data controller is responsible for compliance with paragraph 1 and
 able to prove it (accountability)
 
----The principles applicable to the processing of personal data---
+[---The principles applicable to the processing of personal data---]
 
 Data must be processed in a lawful, correct and transparent manner towards
 the data subject. The purposes must be determined, explicit and legitimate; 
@@ -80,7 +80,7 @@ ensure adequate security.
 
 The rules demand that every task with confidential details stays within the law next to ethical practices. A company needs clear communication to people about its methods for gathering information or personal data. Organizations must explain the list of rights to users about their records. The guidelines form a foundation for proper data management that matches European privacy standards. These steps really aid in safeguarding records in digital settings..
 
----The following is the related “Recital”---
+[---The following is the related “Recital”---]
 
 (39) Any processing of personal data should be LAWFUL and CORRECT.
 It should be transparent to individuals how 
