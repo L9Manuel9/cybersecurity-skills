@@ -116,8 +116,9 @@ Let's connect via Winbox to the MikroTik Router.
 
 
 After conducting the initial Troubleshooting phase, i Think we can now Proceed with Adding the VPN to this site. 
-I've read it also fixes some problematics and enhance the stability. So it is perfectly tailored for us. Good job client in asking a VPN!
-We gain in both security and stability.
+I've read it also fixes some problematics and enhance the stability. 
+
+So it is perfectly tailored for us. Good job client in asking a VPN! We gain in both security and stability.
 
 
 # Configuring OpenVPN Server on Mikrotik for Access to Devices in the Internal LAN
