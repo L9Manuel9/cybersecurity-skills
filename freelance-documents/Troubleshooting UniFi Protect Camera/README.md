@@ -135,8 +135,8 @@ Prerequisites
 ## Accessing the Mikrotik Configuration
 1. Access the Mikrotik router using WinBox or the web interface (if enabled).
 2. Open the Mikrotik Terminal by clicking the “New Terminal” button.
-NOTE:  
-- The domain raffaelechiatto.com is used in the examples.  
+
+NOTE:   
 - You can configure and use the VPN even if the domain and DNS are not publicly accessible.  
 - Delays or timeouts may occur when generating certificates. These certificates remain valid for 10 years (3650 days).
 ---
@@ -159,7 +159,6 @@ add name=client-template common-name=client.raffaelechiatto.com days-valid=3650 
 Signing the Certificates
 Sign the certificates using the following commands:
 
-mikrotik
 
 /certificate
 
@@ -183,7 +182,6 @@ Verification:
 Exporting the Certificates
 Export the certificates using these commands:
 
-mikrotik
 
 /certificate
 
@@ -199,7 +197,6 @@ export-certificate client-certificate export-passphrase=password12345
 Creating the IP Address Pool
 Create an IP address pool for VPN clients:
 
-mikrotik
 
 /ip
 
@@ -213,7 +210,6 @@ verification:
 Configuring the PPP OpenVPN Server
 Configure the PPP server to accept VPN connections:
 
-mikrotik
 
 /ppp
 
@@ -223,8 +219,6 @@ secret add name=adminvpn profile=vpn-profile password=password12345
 
 configure
 
-
-mikrotik
 
 /interface
 
@@ -239,7 +233,6 @@ Firewall Configuration
 Allow VPN clients to access the LAN:
 ### Firewall Filter Rules
 
-mikrotik
 
 /ip firewall filter
 
@@ -263,10 +256,8 @@ add chain=forward action=drop comment="Drop forward for all other connections"
 
 add chain=forward connection-state=invalid action=drop comment="Drop invalid connections"
 
-nat
+## NAT
 
-
-mikrotik
 
 /ip firewall nat
 
@@ -278,7 +269,6 @@ add chain=srcnat src-address=192.168.8.0/24 action=masquerade comment="Allow VPN
 Creating the .ovpn Configuration File
 Create a file called client.ovpn on your PC and add the following content:
 
-plaintext
 
 client
 
@@ -314,8 +304,8 @@ redirect-gateway def1
 
 verb 3
 
-note:
 
+note:
 Replace IP_PUBLIC with the public IP address or DNS name of the Mikrotik router.
 ---
 OpenVPN Client Configuration
@@ -336,13 +326,9 @@ A split tunnel routes specific traffic through the VPN while leaving the rest un
 2. Edit the .ovpn configuration file and add the following lines:  
    
 
-plaintext
-
 route-nopull
 
 route [website IP address] 255.255.255.255
-
-3.
 
 
 To Remove Split Tunneling:
@@ -350,6 +336,7 @@ Delete the above two lines from the .ovpn file and restart the VPN connection.
 TIP:  
 Configure DNS servers in the VPN to prevent DNS leaks.
 ---
+Thank you for reading! ❤️
 
 
 
