@@ -1,21 +1,21 @@
 # Port Scanning with Nmap
 
 ## Objective/Overview
-Conduct port scans on target systems or networks to identify listening services, operating systems, and potential points of entry.
+To find operating systems, listening services, and possible points of entry, do port scans on target systems or networks.
 
 ## Tools & Techniques
-- Nmap (using various scan types, such as `-sS`, `-sV`, and `-A`)
-- Knowledge of TCP/IP and basic networking
+- Nmap (using -sS, -sV, and -A, among other scan types)
+- familiarity with TCP/IP and fundamental networking
 
 ## Implementation Steps
-1. Run a stealth SYN scan (`nmap -sS <target>`) to quickly enumerate open ports.
-2. Use service version detection (`nmap -sV`) to identify services running on discovered ports.
-3. Enable OS detection and script scanning with `-A` for deeper insights.
-4. Document each open port and associated service for subsequent exploitation or analysis.
+1. Use nmap -sS <target> to do a stealth SYN scan in order to rapidly list all open ports.
+2. Services operating on discovered ports can be identified by using service version detection (nmap -sV).
+3. For further in-depth information, use -A to enable OS detection and script scanning.
+4. Keep track of every open port and related service for later use or examination.
 
 ## Key Takeaways
-- Essential for reconnaissance in penetration testing.
-- Helps narrow down potential vulnerabilities by focusing on known or unusual services.
+- Crucial to penetration testing's reconnaissance process.
+- By concentrating on well-known or uncommon services, it aids in identifying possible weaknesses.
 
 TryHackMe: https://tryhackme.com/r/module/nmap
 
