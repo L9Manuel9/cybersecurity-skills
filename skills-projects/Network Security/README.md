@@ -34,13 +34,13 @@ Capture and examine unprocessed network data to find irregularities, questionabl
 
 ## Implementation Steps
 1. On the selected interface, start Wireshark or tcpdump. Turn on promiscuous mode when necessary.
-2. Configure filters to target particular traffic, such as tcp.port == 80.
-3. Inspect packet contents for unencrypted credentials or anomalies.
+2. Set up filters, such tcp.port == 80, to target certain traffic.
+3. Look for anomalies or unencrypted credentials in the packet contents..
 4. For offline analysis and future reference, save.pcap files.
 
 ## Key Takeaways
 - Reveals cleartext credentials and insecure protocols in use.
-- The analysis aids in the diagnosis of network problems and identifying malicious traffic patterns
+- The analysis assists in identifying harmful traffic patterns and diagnosing network issues.
 
 TryHackMe: https://tryhackme.com/r/module/wireshark
 & https://tryhackme.com/r/room/tcpdump
