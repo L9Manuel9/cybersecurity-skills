@@ -45,7 +45,7 @@ Update: Looks like restarting my UDM did the trick (both for alarms and connecti
 Depending on your internet service provider (provided modem router) it be blocking required ports to access the Cloud Key. 
 If you are able to review the firmware settings and ensure that no additional outbound firewall rules are preventing access
 
-- Check this
+- Check required ports access, firmware settings and potentially additional outbound firewall rules
   
 3 --------
   
