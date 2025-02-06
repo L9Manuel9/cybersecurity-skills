@@ -46,25 +46,25 @@ The rules demand that every task with confidential details stays within the law 
 
 ## #3 This document outlines the seven principles of the GDPR (information related as stated by Article 5) as follows:
 
-1. Fairness and Transparency
+1. Fairness and Transparency:
 Organizations need a legal reason to process data. A company must be open about its data practices or disclose its privacy rules upfront. Users should know how their info gets used.
 
-2. Purpose Limitation
+2. Purpose Limitation:
 A business needs to explain the specific reasons for data collection in its privacy rules. The gathered info must serve only these stated goals - no extra uses allowed.
 
-3. Data Minimization
+3. Data Minimization:
 Anonymous info works best but when personal details are needed companies should gather just what they need - nothing more. Keep data collection as small as possible.
 
-4. Accuracy
+4. Accuracy:
 All stored info must stay correct along with current.
 
-5. Storage Limitation
+5. Storage Limitation:
 The GDPR tells organizations not to store info forever. A company must set clear time limits for keeping user data as well as give reasons for these periods. When time runs out the data needs review or deletion.
 
-6. Integrity and confidentiality
+6. Integrity and confidentiality:
 A business must store data in secure ways to protect against illegal access as well as accidental loss or damage. The company has to shield each user's identity by methods such as anonymization or pseudonymization.
 
-7. Accountability
+7. Accountability:
 The GDPR requires detailed records of data handling in specific cases. The keeping of basic info about collection purposes along with retention times is vital. All companies need to follow these rules.
 
 The GDPR framework follows specific rules that tell organizations how to handle private data.
