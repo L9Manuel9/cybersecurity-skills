@@ -51,7 +51,7 @@ TryHackMe: https://tryhackme.com/r/module/wireshark
 
 ## Objective/Overview 
 
-Uncover DNS records that can reveal subdomains, mail servers, or other infrastructure details about a target.
+Discover DNS records that may provide mail servers, subdomains, or other infrastructure information about a target.
 
 ## Tools & Techniques
 
@@ -62,14 +62,14 @@ Uncover DNS records that can reveal subdomains, mail servers, or other infrastru
 ## Implementation Steps
 
 1. Use dig or nslookup to query for A, MX, NS, CNAME records.
-2. Attempt a zone transfer (dig AXFR @nameserver domain.com) if allowed.
-3. Run dnsenum or other scripts to systematically find subdomains.
-4. Document your findings for potential entry points or infrastructure mapping.
+2. If permitted, attempt a zone transfer (dig AXFR @nameserver domain.com).
+3. Use programs such as dnsenum to methodically locate subdomains.
+4. Keep track of your discoveries for mapping infrastructure or potential entry points.
 
 ## Key Takeaways
  
-- Often reveals hidden or staging subdomains.
-- Reiterates the importance of proper DNS configuration to prevent zone transfers.
+- Often exposes staging or hidden subdomains.
+- Stresses the need of setting up DNS correctly to prevent zone transfers.
 
 TryHackMe: https://tryhackme.com/r/room/passiverecon
 
