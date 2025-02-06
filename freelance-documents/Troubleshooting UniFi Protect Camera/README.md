@@ -56,7 +56,7 @@ Protect I haven't been able to connect to for almost two days now.
 
 https://help.ubnt.com/hc/en-us/articles/360034238233-UniFi-Protect-Troubleshooting-Connectivity
 
-[ ]
+[ ] Note:
 Those are in Italian sources, I've usually check in both languages, i woul'd search even in Chinese if i could understand those languages naturally.
 1) https://www.raffaelechiatto.com/configurazione-server-openvpn-su-mikrotik-per-accesso-a-devices-nella-lan-interna/
 2) https://www.timenet.it/mikrotik-vpn-l2tp-over-ipsec-vpn-vs-pptp-configurazione/
