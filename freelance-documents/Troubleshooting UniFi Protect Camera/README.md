@@ -115,7 +115,7 @@ Let's connect via Winbox to the MikroTik Router.
    Connected again, Checked for further updates. And Everything is now updated.
 
 
-After conducting the initial Troubleshooting phase, i Think we can now Proceed with Adding the VPN to this site. 
+After conducting this Troubleshooting phase, i Think we can now Proceed with Adding the VPN on the MikroTik. 
 
 I've read it also fixes some problematics and enhance the stability. 
 
