@@ -1,8 +1,8 @@
 # Troubleshooting & VPN Implementation
 
-System: UniFi Protect
-Connected to a network managed by a: MikroTik Cloud Core Router
-With a dedicated VLAN.
+## System: UniFi Protect
+#### Connected to a network managed by a: MikroTik Cloud Core Router
+##### With a dedicated VLAN.
 
 Issue: The Internet is working properly, but there are occasional disconnections that make the
 UniFi Protect system unreachable from the outside
