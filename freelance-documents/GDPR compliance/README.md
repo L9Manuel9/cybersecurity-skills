@@ -28,21 +28,87 @@ The lack of a single required competence undermines an organization's data prote
 
 ## #2 This document outlines Article 5 of the GDPR, which specifies the principles applicable to the processing of personal data:
 
-The first core principle combines lawfulness, fairness along with transparency. A company needs to handle personal details in a clear manner that respects legal requirements.
+1. Data shall be:
 
-Purpose limitation: stands as the second key rule. Organizations must gather information for specific or legitimate goals or process it in ways that match the original intent.
+(a) processed lawfully, fairly and transparently with regard to the data subject
+(lawfulness, fairness and transparency);
 
-Data minimization: requires companies to collect just the needed facts that relate to their stated objectives. The personal information must stay relevant next to adequate for the intended use.
 
-The accuracy: principle demands correct information. Companies must take proper steps to fix or remove wrong details about people based on the processing goals. Any updates should happen when facts become outdated.
+(b) collected for specified, explicit and legitimate purposes, and subsequently
+processed in a manner that is not incompatible with those purposes; further
+processing of personal data for the purpose of archiving in the public interest,
+scientific or historical research or for statistical purposes is not, 
+in accordance with Article 89 (1), considered incompatible with the 
+initial purposes (purpose limitation)
 
-Storage limitation: The personal details need to stay in identifiable form just as long as needed to fulfill their intended objectives. Records shall remain stored for a longer time only if required for public archives or research, with protective measures added.
 
-Integrity and confidentiality: A company must handle information in ways that provide proper protection. The safeguards should stop unauthorized access, illegal use or accidental data corruption.
+(c) adequate, relevant and limited to what is necessary in relation to the purposes
+for which they are processed (data minimization);
 
-Accountability: The organization that manages data has to follow all rules along with proving its compliance.
+
+(d) accurate and, where necessary, kept up to date; all measures must be taken
+reasonable to delete or rectify in a timely manner data that are inaccurate in relation
+to the purposes for which they are processed (accuracy)
+
+(e) kept in a form which permits the identification of the data subjects for a
+period of time not exceeding the achievement of the purposes for which they are processed;
+personal data may be retained for longer periods provided that
+they are processed exclusively for archiving purposes in the public interest, for 
+scientific or historical research or for statistical purposes, 
+in accordance with Article 89 (1), subject to the implementation of
+appropriate technical and organizational measures required by this Regulation to
+protection of the rights and freedoms of the data subject (limitation of storage)
+
+
+(f) processed in a manner that ensures appropriate security of personal data, 
+including protection, by appropriate technical and organizational measures,
+from unauthorized or unlawful processing and from accidental loss, destruction
+or accidental damage (integrity and confidentiality)
+
+
+2. The data controller is responsible for compliance with paragraph 1 and
+able to prove it (accountability)
+
+---The principles applicable to the processing of personal data---
+
+Data must be processed in a lawful, correct and transparent manner towards
+the data subject. The purposes must be determined, explicit and legitimate; 
+
+The data: adequate, relevant, accurate and updated, as well as limited to what is 
+necessary in relation to the purposes, and in any case to be processed in such a way as to
+ensure adequate security.
 
 The rules demand that every task with confidential details stays within the law next to ethical practices. A company needs clear communication to people about its methods for gathering information or personal data. Organizations must explain the list of rights to users about their records. The guidelines form a foundation for proper data management that matches European privacy standards. These steps really aid in safeguarding records in digital settings..
+
+---The following is the related “Recital”---
+
+(39) Any processing of personal data should be LAWFUL and CORRECT.
+It should be transparent to individuals how 
+by which personal data are collected, used, accessed or otherwise processed
+about them as well as the extent to which personal data are or will be processed.
+The principle of transparency requires that information and communications
+relating to the processing of such personal data are easily accessible and 
+understandable and that simple and clear language is used.
+This principle relates, in particular, to informing data subjects
+about the identity of the data controller and the purposes of the processing and
+further information to ensure fair and transparent processing with
+respect to the natural persons concerned and their rights to obtain confirmation
+and communication of a processing of personal data concerning them. 
+It is appropriate for individuals to be made aware of the risks, rules,
+the safeguards and rights relating to the processing of personal data
+as well as how to exercise their rights related to such processing.
+In particular, the specific purposes of the processing of personal data
+should be explicit and legitimate and specified at the time of the collection
+of said personal data. Personal data should be processed only
+if the purpose of the processing is not reasonably achievable by other means.
+In order to ensure that personal data are not kept longer than
+necessary, the data controller should establish a time limit for
+erasure or for periodic verification.
+All reasonable steps should be taken to ensure that personal data that are
+inaccurate are corrected or deleted. Personal data should be
+processed in a manner that ensures adequate security and confidentiality, including
+to prevent unauthorized access to or use of personal data and the
+equipment used for processing.
 
 ## #3 This document outlines the seven principles of the GDPR (information related as stated by Article 5) as follows:
 
@@ -55,8 +121,8 @@ A business needs to explain the specific reasons for data collection in its priv
 3. Data Minimization:
 Anonymous info works best but when personal details are needed companies should gather just what they need - nothing more. Keep data collection as small as possible.
 
-4. Accuracy:
-All stored info must stay correct along with current.
+4. Accuracy: 
+All stored info must stay correct along with current. remove wrong details about people based on the processing goals. Any updates should happen when facts become outdated.
 
 5. Storage Limitation:
 The GDPR tells organizations not to store info forever. A company must set clear time limits for keeping user data as well as give reasons for these periods. When time runs out the data needs review or deletion.
