@@ -1,7 +1,7 @@
 # Port Scanning with Nmap
 
 ## Objective/Overview
-To find operating systems, listening services, and possible points of entry, do port scans on target systems or networks.
+To find listening services, operating systems, and possible points of entry, do port scans on target systems or networks.
 
 ## Tools & Techniques
 - Nmap (using -sS, -sV, and -A, among other scan types)
