@@ -6,11 +6,9 @@
 
 #### Issue: The Internet is working properly, but there are occasional disconnections that make the UniFi Protect system unreachable from the outside
 
-Hypothesis: Client suggests it may be a problem related to some firewall rule
-on MikroTik
+#### Hypothesis: Client suggests it may be a problem related to some firewall rule on MikroTik
 
-Request: Checking the Firewall on MikroTik
+#### Request: Checking the Firewall on MikroTik
 
-Further Request: Configure a VPN on the MikroTik in order to be able to 
-remotely access the UniFi Protect system securely.
+#### Further Request: Configure a VPN on the MikroTik in order to be able to  remotely access the UniFi Protect system securely.
 
