@@ -84,7 +84,7 @@ Check Firewalls & ISP Restrictions
 
 DNS works using UDP Port 53. Ensure that this is not being blocked by any upstream firewalls, gateways or ISP modems. If it is, DNS resolution will fail.
 
-Temporarily disable any custom firewall rules and verify WebRTC traffic is not blocked.
+verify WebRTC traffic is not blocked.
 
 
 Re-Configuring Your DNS Server
@@ -116,10 +116,239 @@ Let's connect via Winbox to the MikroTik Router.
 
 
 After conducting the initial Troubleshooting phase, i Think we can now Proceed with Adding the VPN to this site. 
-I've read it also fixes some problematics and enhance the stability. So it is perfectly tailored for us. Good job client! 
+I've read it also fixes some problematics and enhance the stability. So it is perfectly tailored for us. Good job client in asking a VPN!
 We gain in both security and stability.
 
-VPN L2TP over IPsec client to site: Come configurarlo su MikroTik
+
+# Configuring OpenVPN Server on Mikrotik for Access to Devices in the Internal LAN
+
+This tutorial provides a step-by-step guide to configure an OpenVPN server on a Mikrotik router. It also covers firewall configuration to allow VPN clients to access devices on the internal LAN and explains how to set up the OpenVPN client on a PC.
+
+---
+Prerequisites
+- A Windows PC
+- WinBox (download from Mikrotik’s official website)
+  - Choose the 32-bit or 64-bit version based on your operating system.
+---
+## Accessing the Mikrotik Configuration
+1. Access the Mikrotik router using WinBox or the web interface (if enabled).
+2. Open the Mikrotik Terminal by clicking the “New Terminal” button.
+NOTE:  
+- The domain raffaelechiatto.com is used in the examples.  
+- You can configure and use the VPN even if the domain and DNS are not publicly accessible.  
+- Delays or timeouts may occur when generating certificates. These certificates remain valid for 10 years (3650 days).
+---
+## Creating the Certificates
+Run the following commands to create the necessary certificates for the VPN:
+
+mikrotik
+
+/certificate
+
+add name=ca-template common-name=raffaelechiatto.com days-valid=3650 key-size=4096 key-usage= crl-sign,key-cert-sign
+
+add name=server-template common-name=server.raffaelechiatto.com days-valid=3650 key-size=4096 key-usage= digital-signature,key-encipherment,tls-server
+
+add name=client-template common-name=client.raffaelechiatto.com days-valid=3650 key-size=4096 key-usage= tls-client
+
+---
+
+
+Signing the Certificates
+Sign the certificates using the following commands:
+
+mikrotik
+
+/certificate
+
+sign ca-template name=ca-certificate
+
+sign server-template name=server-certificate ca=ca-certificate
+
+sign client-template name=client-certificate ca=ca-certificate
+
+note:
+
+Some commands may time out during this phase. This is normal—continue with the process.
+Verification:  
+1. Open the Certificates section in WinBox:  
+   Click “System” → “Certificates”.  
+2. Ensure the certificates have the following properties:  
+   - CA Certificate: *KLAT*  
+   - Client Certificate: *KIT*  
+   - Server Certificate: *KI*
+---
+Exporting the Certificates
+Export the certificates using these commands:
+
+mikrotik
+
+/certificate
+
+export-certificate ca-certificate export-passphrase=""
+
+export-certificate client-certificate export-passphrase=password12345
+
+-
+
+- Select the files (two certificates and one key) and click “Download”.  
+- Save the files to a convenient location (e.g., your desktop).
+---
+Creating the IP Address Pool
+Create an IP address pool for VPN clients:
+
+mikrotik
+
+/ip
+
+pool add name="vpn-pool" ranges= 192.168.8.10-192.168.8.30
+
+verification:
+
+- Go to IP → Pool in WinBox.  
+- Ensure the pool is created with the assigned IP range.
+---
+Configuring the PPP OpenVPN Server
+Configure the PPP server to accept VPN connections:
+
+mikrotik
+
+/ppp
+
+profile add name="vpn-profile" use-encryption=yes local-address=192.168.8.250 dns-server=192.168.8.250 remote-address=vpn-pool
+
+secret add name=adminvpn profile=vpn-profile password=password12345
+
+configure
+
+
+mikrotik
+
+/interface
+
+ovpn-server server
+
+set default-profile=vpn-profile certificate=server-certificate require-client-certificate=yes auth=sha1 cipher=aes128,aes192,aes256 enabled=yes
+
+---
+
+
+Firewall Configuration
+Allow VPN clients to access the LAN:
+### Firewall Filter Rules
+
+mikrotik
+
+/ip firewall filter
+
+add chain=forward connection-state=established,related,untracked action=accept comment="Accept forwarding for established and related connections"
+
+add chain=forward src-address=192.168.8.0/24 action=accept comment="Allow forwarding from OVPN clients"
+
+add chain=input connection-state=established,related,untracked action=accept comment="Accept input for established and related connections"
+
+add chain=input protocol=tcp dst-port=1194 action=accept comment="Allow OpenVPN connection"
+
+add chain=input in-interface=all-ppp action=accept comment="Allow input from OVPN clients"
+
+add chain=input protocol=tcp dst-port=8291 action=accept comment="Allow Winbox input"
+
+add chain=input protocol=tcp dst-port=443 action=accept comment="Allow HTTPS"
+
+add chain=input action=drop comment="Drop all other connections"
+
+add chain=forward action=drop comment="Drop forward for all other connections"
+
+add chain=forward connection-state=invalid action=drop comment="Drop invalid connections"
+
+nat
+
+
+mikrotik
+
+/ip firewall nat
+
+add chain=srcnat src-address=192.168.8.0/24 action=masquerade comment="Allow VPN clients to browse the Internet through the cloud/server network"
+
+---
+
+
+Creating the .ovpn Configuration File
+Create a file called client.ovpn on your PC and add the following content:
+
+plaintext
+
+client
+
+dev tun
+
+proto tcp
+
+remote IP_PUBLIC 1194
+
+resolv-retry infinite
+
+nobind
+
+persist-key
+
+persist-tun
+
+ca ca.crt
+
+cert client.crt
+
+key client.key
+
+remote-cert-tls server
+
+cipher AES-128-CBC
+
+auth SHA1
+
+auth-user-pass
+
+redirect-gateway def1
+
+verb 3
+
+note:
+
+Replace IP_PUBLIC with the public IP address or DNS name of the Mikrotik router.
+---
+OpenVPN Client Configuration
+1. Download and install the OpenVPN client from OpenVPN Community Downloads.  
+   - Always download the latest version available.  
+2. Copy the following files to the folder C:\Program Files\OpenVPN\config:  
+   - ca.crt  
+   - client.crt  
+   - client.key  
+   - client.ovpn  
+3. Launch the OpenVPN client, click the icon in the system tray, and select “Connect”.  
+4. Enter the username and password you created earlier to establish the VPN connection.
+---
+## Split-Tunnel OpenVPN Configuration
+A split tunnel routes specific traffic through the VPN while leaving the rest unaffected.
+### Steps to Configure Split Tunneling:
+1. Find the IP address of the website(s) you want to route through the VPN using nslookup or an IP lookup tool (e.g., XMyIP).  
+2. Edit the .ovpn configuration file and add the following lines:  
+   
+
+plaintext
+
+route-nopull
+
+route [website IP address] 255.255.255.255
+
+3.
+
+
+To Remove Split Tunneling:
+Delete the above two lines from the .ovpn file and restart the VPN connection.
+TIP:  
+Configure DNS servers in the VPN to prevent DNS leaks.
+---
+
 
 
 
