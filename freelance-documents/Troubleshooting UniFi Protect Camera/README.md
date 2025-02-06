@@ -331,10 +331,10 @@ route-nopull
 route [website IP address] 255.255.255.255
 
 
-To Remove Split Tunneling:
+### To Remove Split Tunneling:
 Delete the above two lines from the .ovpn file and restart the VPN connection.
-TIP:  
-Configure DNS servers in the VPN to prevent DNS leaks.
+
+TIP: Configure DNS servers in the VPN to prevent DNS leaks.
 ---
 Thank you for reading! ❤️
 
