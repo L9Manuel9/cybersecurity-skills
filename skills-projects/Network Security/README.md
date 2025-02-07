@@ -221,7 +221,7 @@ Rapidly map active hosts on a local area network and get their MAC addresses, wh
 # Packet Sniffing with Scapy
 
 ## Objective/Overview
-Use Scapy, a powerful Python library, to capture, analyze, and craft custom packets for advanced network testing and research.
+For sophisticated network testing and research, use the robust Python package Scapy to capture, examine, and create custom packets.
 
 ## Tools & Techniques
 - Scapy for Python-based packet manipulation
@@ -235,8 +235,8 @@ Use Scapy, a powerful Python library, to capture, analyze, and craft custom pack
 4. Build and send custom packets (`sendp()`, `send()`) for testing or fuzzing.
 
 ## Key Takeaways
-- Ideal for deep protocol analysis and building custom packets.
-- Encourages experimenting with network traffic in a controlled, authorized environment.
+- Perfect for creating custom packets and conducting in-depth protocol analysis.
+- Promotes network traffic experimentation in a supervised, approved environment.
 
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
