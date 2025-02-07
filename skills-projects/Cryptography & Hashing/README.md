@@ -7,7 +7,7 @@ Those capabilities gonna be discussed and touched oftenly throughout my whole Po
 - https://tryhackme.com/r/room/cyberchefbasics
 - https://tryhackme.com/r/room/johntheripperbasics
 
-  ##
+##
 
 Note: Below project is also related to Brute-Forcing Techniques.
 
