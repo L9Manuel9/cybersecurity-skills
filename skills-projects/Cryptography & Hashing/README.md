@@ -1,11 +1,11 @@
 I Have a clear understand of the differences between Hashing, salts, Cryptography and Encoding.
 
+Those capabilities gonna be discussed and touched oftenly throughout my whole Portfolio.
+
 Can Utilize properly both CyberChef and JohnTheRipper.
 
 - https://tryhackme.com/r/room/cyberchefbasics
 - https://tryhackme.com/r/room/johntheripperbasics
-
-Those capabilities gonna be discussed and touched oftenly throughout my whole Portfolio.
 
 Above Project is also related to Brute-Forcing Techniques.
 
