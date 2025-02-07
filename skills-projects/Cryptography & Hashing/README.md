@@ -2,7 +2,7 @@ I Have a clear understand of the differences between Hashing, salts, Cryptograph
 
 Those capabilities gonna be discussed and touched oftenly throughout my whole Portfolio.
 
-Can Utilize properly both CyberChef and JohnTheRipper.
+## Can Utilize properly both CyberChef and JohnTheRipper.
 
 - https://tryhackme.com/r/room/cyberchefbasics
 - https://tryhackme.com/r/room/johntheripperbasics
