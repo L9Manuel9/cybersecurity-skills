@@ -177,7 +177,7 @@ Note: U can Accomplish it using standard tools as Scapy and Nmaps with the right
 # ARP Poisoning and MITM Attack
 
 ## Objective/Overview
-Intercept traffic between hosts in a local network by tampering with the Address Resolution Protocol (ARP) cache, allowing man-in-the-middle (MITM) attacks.
+Manipulate the Address Resolution Protocol (ARP) cache to intercept communication between hosts in a local network, enabling man-in-the-middle (MITM) attacks. 
 
 ## Tools & Techniques
 - Tools such as arpspoof, ettercap, or Bettercap
@@ -199,7 +199,7 @@ Intercept traffic between hosts in a local network by tampering with the Address
 # Network Mapping with Netdiscover
 
 ## Objective/Overview
-Quickly map live hosts on a local network and identify their MAC addresses, often used for initial reconnaissance in a LAN environment.
+Rapidly map active hosts on a local area network and get their MAC addresses, which are frequently used for preliminary LAN reconnaissance.
 
 ## Tools & Techniques
 - Netdiscover in active or passive mode
@@ -208,13 +208,13 @@ Quickly map live hosts on a local network and identify their MAC addresses, ofte
 
 ## Implementation Steps
 1. Set up netdiscover with a target range (`netdiscover -r 192.168.1.0/24`).
-2. Collect the list of active IPs, associated MAC addresses, and device manufacturers.
+2. Collect the list of active IPs, associated MAC addresses, and device manufacturers that are currently in use.
 3. Save or document these findings for targeted scans (e.g., Nmap, vulnerability scans).
-4. (Optional) Use results to identify rogue devices or unknown hosts.
+4. (Optional) Use the findings to identify unknown hosts or rogue devices.
 
 ## Key Takeaways
-- Provides a quick overview of connected devices in the network.
-- Essential before deeper vulnerability scanning or exploitation.
+- It gives a quick overview of connected devices in the network.
+- Good to do prior deeper vulnerability scanning or exploitation.
 
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
