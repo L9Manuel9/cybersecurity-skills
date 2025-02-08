@@ -36,17 +36,17 @@ Simulate phishing attacks to evaluate an organization's readiness and responses 
 
 ## Tools & Techniques
 - Gophish along with similar software 
-- Templates that look just like real trusted business emails
+- Realistic email templates mimicking trusted sources
 - Tracking tools for measuring engagement (opens, clicks)
 
 ## Implementation Steps
-1. Set up fake email tests with open-source or commercial software that copies real business messages.
+1. Set up fake email tests with open source or commercial software that mimic real business messages.
 2. Select recipients list and send messages at different hours to match authentic scenarios.
 3. Monitor how many people open emails, click links or type in details.
 4. Review data about staff behavior, then suggest better training methods
 
 ## Key Takeaways
-- The IT department needs to work with Human Resources for complete staff education.
+- The IT department needs to work with Human Resources for comprehensive awareness programs.
 - Realistic simulations improve overall incident response and reporting awareness.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
