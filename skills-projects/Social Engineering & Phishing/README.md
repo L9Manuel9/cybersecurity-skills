@@ -29,7 +29,7 @@ A method that uses human interaction to deceive people into revealing private da
 
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
-# Email Phishing Simulation
+# Email Phishing Simulation (Limited to)
 
 ## Objective/Overview
 Simulate phishing attacks to evaluate an organization's readiness and responses to email-based social engineering tactics.
@@ -50,7 +50,7 @@ Simulate phishing attacks to evaluate an organization's readiness and responses 
 - Realistic simulations improve overall incident response and reporting awareness.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
-# Conducting Phishing Campaigns
+# Conducting Phishing Campaigns (360°)
 
 ## Objective/Overview
 Test how an organization handles fraud attempts or data theft through planned phishing exercises.
