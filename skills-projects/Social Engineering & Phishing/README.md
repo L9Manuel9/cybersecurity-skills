@@ -40,7 +40,7 @@ A simulation tests how staff react to deceptive emails or social engineering tri
 - Tracking tools for measuring engagement (opens, clicks)
 
 ## Implementation Steps
-1. Set up fake email tests with free or paid software that copies real business messages.
+1. Set up fake email tests with open-source or commercial software that copies real business messages.
 2. Select recipients list and send messages at different hours to match authentic scenarios.
 3. Monitor how many people open emails, click links or type in details.
 4. Review data about staff behavior, then suggest better training methods
