@@ -67,7 +67,7 @@ Test how an organization handles fraud attempts or data theft through planned ph
 4. Launch tests, record results, also write a full report about weak spots.
 
 ## Key Takeaways
-- Effective phishing assessments require detailed scenario planning and ethical oversight.
+- The success of a phishing assessments require careful preparation plus ethical rules.
 - Realistic simulations improve overall incident response and reporting awareness.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
