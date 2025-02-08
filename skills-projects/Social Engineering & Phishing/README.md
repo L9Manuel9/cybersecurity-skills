@@ -95,22 +95,22 @@ Automated social engineering attacks are professionally carried out via the Soci
 # Creating Fake Login Pages
 
 ## Objective/Overview
-Craft realistic-looking fake login pages to capture credentials, demonstrating how attackers exploit user trust.
+To show how hackers obtain passwords by tricking users. craft realistic-looking fake login pages to capture credentials.
 
 ## Tools & Techniques
-- HTML/CSS to clone authentic websites
-- JavaScript and PHP for data capture mechanisms
+- HTML/CSS to replicates authentic webpages.
+- PHP or JavaScript stores user data.
 - Hosting on secure, isolated servers for demonstration
 
 ## Implementation Steps
-1. Save or clone the HTML structure of a legitimate login page, carefully matching branding and design elements.
-2. Code back-end PHP scripts to store or forward captured credentials securely.
+1. The HTML code from authentic login screens should be copied, and all logos and visual components should match precisely.
+2. Code back-end PHP scripts that gather and send the input data.
 3. Host the cloned page in a secure environment for training or analysis purposes.
-4. Train employees on recognizing such attacks, emphasizing the importance of verifying page authenticity before entering credentials.
+4. Train employees on recognizing these fraudulent websites, and how to validate URLs before entering credentials.
 
 ## Key Takeaways
 - Shows how even skilled users can sometimes fall prey to phishing attacks.
-- Educating users on safe browsing habits and URL verification is crucial for utmost security.
+- Teaching users safe surfing techniques, such as URL Verification.
 
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
