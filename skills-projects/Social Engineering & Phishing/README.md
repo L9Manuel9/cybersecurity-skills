@@ -10,22 +10,22 @@ the difference between me and my computer is my guilt. .cit ~Tony Boy
 # Social Engineering
 
 ## Objective/Overview
-Use human interaction to trick individuals into divulging confidential information or performing actions that compromise security.
+A method that uses human interaction to deceive people into revealing private data or taking actions that compromise security.
 
 ## Tools & Techniques
 - Pretexting and impersonation strategies
-- OSINT (Open Source Intelligence) for background research
+- OSINT (Open Source Intelligence) to collect public information
 - Communication channels: emails, phone calls, social media
 
 ## Implementation Steps
 1. Conduct OSINT to gather initial information about the target or organization.
-2. Develop a believable pretext aligning with the gathered information, simulating scenarios like a tech support call or vendor inquiry.
-3. Engage with targets using the chosen communication channel, leveraging psychological tactics to elicit information.
+2. Create a realistic story that matches the collected details - example: act as IT support or new supplier.
+3. Reach out to people via selected channels with psychological methods to extract information.
 4. Document interaction results and potential vulnerabilities exploited in human factors.
 
 ## Key Takeaways
 - Shows how critical awareness training is to mitigate social engineering attacks.
-- Emphasizes the human element as a security risk, reinforcing the need for strong security culture.
+- Emphasizes the human element as a security risk, reinforcing the need for strong security protocols.
 
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
