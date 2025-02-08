@@ -5,5 +5,5 @@ Due this date, 30/1. I Have completed Over 70 Mini-Projects, To further consolid
 Beginner to Intermediate Level, I have categorized them within those 11 Subfolders.
 
 I did those Mini-Projects alongside with my TryHackMe continous Journey, so I'll citate Some inherent Rooms i Have Completed, Which are completely on my desktop as txt file.
-Since each room i have been through during my Pathway to increment my knowledge and Achieve every TryHackMe Certificates has been written entirely, in a way to being sure i fully understands the concepts.
+Since each room i have been through during my Pathway to increment my knowledge and Achieve every TryHackMe Certificates, has been written entirely, in a way to being sure i fully understands the concepts.
 We can think of those 70+ as Informational Cards who actually try to explain a concept in few words, also for me as a way to further consolidate my Knowledge.
