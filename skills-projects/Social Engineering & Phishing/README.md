@@ -74,22 +74,22 @@ Test how an organization handles fraud attempts or data theft through planned ph
 # Advanced Social Engineering Toolkit (SET)
 
 ## Objective/Overview
-Utilize the Social Engineering Toolkit (SET) to automate and execute sophisticated social engineering attacks.
+Automated social engineering attacks are professionally carried out via the Social Engineering Toolkit (SET).
 
 ## Tools & Techniques
-- SET's extensive module list for crafting customized attacks
+- SET has several modules to produce targeted attacks
 - Web cloning and email injection capabilities
 - Usage in controlled environments for scenario simulation
 
 ## Implementation Steps
 1. Set up the Social Engineering Toolkit on a secure test machine.
-2. Choose appropriate modules (e.g., spear-phishing attacks or credential harvesting with cloned websites).
-3. Deploy the attack within a controlled setting, evaluating participants' awareness and responses.
-4. Analyze the outcomes, documenting any sensitive information captured and the ease of access through social engineering tactics.
+2. Pick particular modules (e.g., website cloning for password harvest or targeted spear-phishing).
+3. Conduct tests in a secure setting to evaluate employee responses without harming the company.
+4. Review data plus technical report details about access through social engineering methods. 
 
 ## Key Takeaways
-- SET gives a comprehensive understanding of automated phishing and social engineering capabilities.
-- Recommendations for security enhancements should focus on continuous awareness initiatives.
+- SET illustrates the operation of automated phishing.
+- Once again, the organization requires frequent security training.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Creating Fake Login Pages
