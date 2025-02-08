@@ -64,7 +64,7 @@ Test how an organization handles fraud attempts or data theft through planned ph
 1. Define specific goals for the campaign (e.g., credential harvesting, click-through rates).
 2. Compile targeted email lists, adhering to data protection best practices.
 3. Write fake messages that look like real ones from trusted sources.
-4. Conduct the campaign, measure results, and compile findings into a detailed report highlighting areas weak in resistance to phishing.
+4. Launch tests, record results, also write a full report about weak spots.
 
 ## Key Takeaways
 - Effective phishing assessments require detailed scenario planning and ethical oversight.
