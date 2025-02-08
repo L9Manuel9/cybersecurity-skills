@@ -25,7 +25,7 @@ A method that uses human interaction to deceive people into revealing private da
 
 ## Key Takeaways
 - Shows how critical awareness training is to mitigate social engineering attacks.
-- Emphasizes the human element as a security risk, reinforcing the need for strong security protocols.
+- A company's employees present a real security risk, which makes strict protocols necessary.
 
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
