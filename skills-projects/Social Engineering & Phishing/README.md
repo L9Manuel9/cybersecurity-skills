@@ -32,21 +32,21 @@ A method that uses human interaction to deceive people into revealing private da
 # Email Phishing Simulation
 
 ## Objective/Overview
-Simulate phishing attacks to evaluate an organization's readiness and responses to email-based social engineering tactics.
+A simulation tests how staff react to deceptive emails or social engineering tricks that target the company.
 
 ## Tools & Techniques
 - Phishing platforms like Gophish
-- Realistic email templates mimicking trusted sources
+- Templates that look just like real trusted business emails
 - Tracking tools for measuring engagement (opens, clicks)
 
 ## Implementation Steps
-1. Design a phishing campaign using open source or commercial platforms, crafting emails that mimic real organizations or services.
-2. Input a target list and deliver phishing emails at varied times to simulate authentic scenarios.
-3. Track metrics such as open rates, link clicks, and data entry attempts.
-4. Collect results, analyze behaviors, and present findings along with recommendations for improvements in training.
+1. Set up fake email tests with free or paid software that copies real business messages.
+2. Select recipients list and send messages at different hours to match authentic scenarios.
+3. Monitor how many people open emails, click links or type in details.
+4. Review data about staff behavior, then suggest better training methods
 
 ## Key Takeaways
-- Collaboration with IT and HR necessary for comprehensive awareness programs.
+- The IT department needs to work with Human Resources for complete staff education.
 - Realistic simulations improve overall incident response and reporting awareness.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
