@@ -32,7 +32,7 @@ A method that uses human interaction to deceive people into revealing private da
 # Email Phishing Simulation
 
 ## Objective/Overview
-A simulation tests how staff react to deceptive emails or social engineering tricks that target the company.
+Simulate phishing attacks to evaluate an organization's readiness and responses to email-based social engineering tactics.
 
 ## Tools & Techniques
 - Gophish along with similar software 
