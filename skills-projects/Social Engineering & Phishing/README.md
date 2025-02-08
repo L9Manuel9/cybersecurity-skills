@@ -105,11 +105,11 @@ To show how hackers obtain passwords by tricking users. craft realistic-looking 
 ## Implementation Steps
 1. The HTML code from authentic login screens should be copied, and all logos and visual components should match precisely.
 2. Code back-end PHP scripts that gather and send the input data.
-3. Host the cloned page in a secure environment for training or analysis purposes.
+3. To do an educational analysis, place the copied page on a server that is isolated.
 4. Train employees on recognizing these fraudulent websites, and how to validate URLs before entering credentials.
 
 ## Key Takeaways
-- Shows how even skilled users can sometimes fall prey to phishing attacks.
+- The demonstration shows how phishing techniques may fool even seasoned users.
 - Teaching users safe surfing techniques, such as URL Verification.
 
 
