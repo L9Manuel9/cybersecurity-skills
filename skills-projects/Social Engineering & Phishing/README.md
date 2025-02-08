@@ -121,12 +121,12 @@ Demonstrate how attackers can forge email header information to mimic emails fro
 
 ## Tools & Techniques
 - Simple Mail Transfer Protocol (SMTP) manipulation via telnet or scripts
-- Examination of SPF, DKIM, and DMARC records
+- Mail security checks (SPF, DKIM, DMARC)
 - Email spoofing platforms and services
 
 ## Implementation Steps
 1. Connect to an SMTP server using telnet or script, faking headers to appear as a trusted sender.
-2. Stage emails with believable content to evaluate the response or bypass corporate email defenses.
+2. Draft convincing messages to test responses or detect filter weaknesses.
 3. Test the organization's enforcement of SPF/DKIM/DMARC to counter spoofing tactics.
 4. Recommend practices for identifying spoofed emails and strengthening mail server configurations.
 
