@@ -35,7 +35,7 @@ A method that uses human interaction to deceive people into revealing private da
 A simulation tests how staff react to deceptive emails or social engineering tricks that target the company.
 
 ## Tools & Techniques
-- Phishing platforms like Gophish
+- Gophish along with similar software 
 - Templates that look just like real trusted business emails
 - Tracking tools for measuring engagement (opens, clicks)
 
