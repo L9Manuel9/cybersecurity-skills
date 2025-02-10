@@ -14,7 +14,7 @@ Identify and exploit Cross-Site Scripting (XSS) vulnerabilities in web applicati
 ## Tools & Techniques
 - Manual testing and browser-based payloads
 - Burp Suite or OWASP ZAP for automated and manual scanning
-- Payloads like `<script>alert("XSS")</script>` - or Even better: '<script>alert(document.cookie)</script>' or '<script>alert(document.domain)</script>' (Not Sandboxed)
+- Payloads like `<script>alert("XSS")</script>` - or Even better: `<script>alert(document.cookie)</script>` or `<script>alert(document.domain)</script>` (Not Sandboxed)
 
 
 ## Implementation Steps
