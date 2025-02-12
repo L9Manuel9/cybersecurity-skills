@@ -228,7 +228,7 @@ Utilize jSQL Injection to perform automated SQL injection attacks, identifying v
 1. Connect jSQL to the web application and identify input fields for testing.
 2. Automate the process of finding and exploiting SQL injection through the tool’s interface.
 3. Use jSQL reporting features to catalog discovered vulnerabilities and extracted data.
-4. Recommend comprehensive reviews and secure coding practices to mitigate identified threats.
+4. Suggest efficient and secure software development approaches, such as code review and secure coding, for the threats identified.
 
 ## Key Takeaways
 - Showcases the importance of protecting databases from automated attacks.
