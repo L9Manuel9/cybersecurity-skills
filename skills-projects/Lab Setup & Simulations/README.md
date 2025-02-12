@@ -31,24 +31,24 @@ However, sometimes i'll rather have greater control over the environment or wher
 
 ## Objective/Overview
 
-- A virtual lab with multiple connected machines helps practice penetration tests as well as network security analysis.
+A virtual lab is an important tool to go for penetration testing and network security analysis that have become practice today.
 
 ## Tools & Techniques
 
-- Virtualization software to run multiple VMs (VirtualBox, VMware)
-- Router and network configuration for isolated practice environments
-- Ready-made vulnerable virtual machines
+- Virtualization software like VMware to create VMs on a PC
+- Isolating and configuring the router and network for the practice environment
+- Customized or Ready-made vulnerable virtual machines as source of practicing pentesting.
 
 ## Implementation Steps
 
 1. Build a virtual network that connects machines set as real targets such as Linux or Windows systems.
 2. Network segments to split test areas in controlled spaces.
-3. Install various pentesting tools and resources on the attacker machine.
-4. Keep records of configurations as well as results for learning purposes or portfolio proof.
+3. Install different pentesting tools on the attacker machine, moreover, create a set of resources for pentesting.
+4. Retain profiles of the configurations and results to be used for the intended purpose, learning or for the portfolio.
 
 ## Key Takeaways
-- The lab makes practice or tests safe.
-- Users can reproduce real attack cases to learn about risks or improve defenses.
+- The practicing or testing of these labs is secure.
+- Users can, for purposes of knowledge, mirror the situations of the attacker and thus come to know the exact risks or learn how to defend from the attacks.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Brute Force Attack Simulation
