@@ -25,21 +25,21 @@ TryHackMe: https://tryhackme.com/r/module/nmap
 
 ## Objective/Overview
 
-Capture and inspect raw network data to find anomalies, harmful traffic, or vulnerabilities in data flow.
+To interpret the network traffic data correctly and to characterize normal and anomalous data flows with the objective of detecting misuse of the network.
 
 ## Tools & Techniques
-- To visually examine packets depthly, use Wireshark.
-- To quickly collect packets via command line , use tcpdump
-- Understanding TCP, UDP, DNS, HTTP, and other protocols
+- Wireshark is helpful for graphically analyzing packets more thoroughly
+- To receive the packets instantly through the command line, use Tcpdump
+- Familiarizing oneself with TCP, UDP, DNS, HTTP, and other protocols
 
 ## Implementation Steps
-1. On the selected interface, start Wireshark or tcpdump. Turn on promiscuous mode when necessary.
-2. Set up filters, (e.g. tcp.port == 80), to remove noise and target specific traffic.
+1. First of all, Wireshark or tcpdump should be run on the selected interface. The promiscuous mode will be turned on when necessary.
+2. Apply filters, (e.g. tcp.port == 80), to remove unwanted noise and to target selected traffic.
 3. Look for anomalies or unencrypted credentials in the packet contents.
-4. For offline analysis and future reference, save .pcap files.
+4. To be able to use the files for analyzing after disconnecting and for future reference, store .pcap files.
 
 ## Key Takeaways
-- Reveals cleartext credentials and insecure protocols in use.
+- Identifies the practice of using cleartext credentials and insecure protocols.
 - The analysis assists in identifying harmful traffic patterns and diagnosing network issues.
 
 TryHackMe: https://tryhackme.com/r/module/wireshark
