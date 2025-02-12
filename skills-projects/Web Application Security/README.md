@@ -9,23 +9,23 @@ where taking notes. I'll soon approach Bug Bounty programs in few months.
 # Exploring XSS Vulnerabilities
 
 ## Objective/Overview
-Identify and exploit Cross-Site Scripting (XSS) vulnerabilities in web applications to highlight the risks of client-side code execution and data theft.
+Identifying and exploiting Cross-Site Scripting (XSS) vulnerabilities in web applications to illustrate the dangers of client-side code execution and data theft.
 
 ## Tools & Techniques
 - Manual testing and browser-based payloads
 - Burp Suite or OWASP ZAP for automated and manual scanning
-- Payloads like `<script>alert("XSS")</script>` - or Even better: `<script>alert(document.cookie)</script>` or `<script>alert(document.domain)</script>` (Not Sandboxed)
+- Payloads like `<script>alert("XSS")</script>` -or Even better: `<script>alert(document.cookie)</script>` or `<script>alert(document.domain)</script>` (Not Sandboxed)
 
 
 ## Implementation Steps
-1. Identify input fields or URL parameters that reflect user input or improperly sanitize it.
-2. Inject basic XSS payloads and observe reflected or stored script execution.
-3. Attempt more advanced techniques, such as DOM-based XSS, if initial tests succeed.
-4. Document the vulnerability, including affected fields and potential impacts (e.g., cookie theft).
+1. Identify input fields or URL parameters that reflect user input or don't properly sanitize it.
+2. Insert some basic XSS scripts and check if they are reflected or stored.
+3. Attempt more advanced methods, such as DOM-based XSS, given the success of the initial tests.
+4. Document the vulnerability report, mentioning affected fields and possible impacts (e.g., cookie theft).
 
 ## Key Takeaways
-- Emphasizes the importance of proper input validation and output encoding.
-- Shows how seemingly minor vulnerabilities can lead to broader security breaches.
+- Cites the relevance of correct input validation and output encoding.
+- Shows how seemingly minor vulnerabilities can lead to larger security breaches.
 
 TryHackMe: https://tryhackme.com/room/xss & https://tryhackme.com/r/room/axss
 
