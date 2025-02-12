@@ -33,7 +33,7 @@ TryHackMe: https://tryhackme.com/room/xss & https://tryhackme.com/r/room/axss
 # SQL Injection Basics
 
 ## Objective/Overview
-Detect and exploit SQL Injection vulnerabilities in web applications, allowing unauthorized access to data and potential control over database servers.
+Discover and exploit SQL Injection vulnerabilities in web applications, allowing unauthorized access to data and potential control over database servers.
 
 ## Tools & Techniques
 - SQLmap for automated testing and exploitation
