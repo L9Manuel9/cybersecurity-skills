@@ -44,11 +44,11 @@ Discover and exploit SQL Injection vulnerabilities in web applications, allowing
 1. Identify input forms or parameters that accept unsanitized user input.
 2. Use manual payloads to test for response changes, error messages, or data leakage.
 3. Deploy SQLmap for comprehensive testing when severe vulnerabilities are found.
-4. Produce a report with query samples and recommend using parameterized queries or ORM solutions.
+4. Provide a report containing query examples and recommend using parameterized queries or ORM solutions.
 
 ## Key Takeaways
 - Demonstrates how unvalidated inputs can lead to severe data breaches.
-- Stresses using prepared statements and robust input sanitization practices.
+- Stresses using properly implemented input sanitization and using prepared statements
 
 TryHackMe: https://tryhackme.com/r/room/sqlfundamentals & https://tryhackme.com/r/room/sqlinjectionlm
 
