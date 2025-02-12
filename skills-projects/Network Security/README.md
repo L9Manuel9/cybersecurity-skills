@@ -25,7 +25,7 @@ TryHackMe: https://tryhackme.com/r/module/nmap
 
 ## Objective/Overview
 
-To interpret the network traffic data correctly and to characterize normal and anomalous data flows with the objective of detecting misuse of the network.
+To interpret the network traffic data correctly and to characterize normal and anomalous data flows.
 
 ## Tools & Techniques
 - Wireshark is helpful for graphically analyzing packets more thoroughly
