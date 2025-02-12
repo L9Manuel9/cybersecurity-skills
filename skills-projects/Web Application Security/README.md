@@ -221,7 +221,7 @@ Utilize jSQL Injection to perform automated SQL injection attacks, identifying v
 
 ## Tools & Techniques
 - jSQL with GUI or CLI for targeting injection points
-- Bypassing authentication or unauthorized access to databases
+- Bypassing authentication or gaining unauthorized access to databases
 - Compatibility with multiple DBMS (MySQL, Oracle, PostgreSQL)
 
 ## Implementation Steps
