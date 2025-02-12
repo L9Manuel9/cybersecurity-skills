@@ -37,7 +37,7 @@ Identify weaknesses in wireless networks and execute attacks to demonstrate the 
 4. Demonstrate access to previously secured networks and recommend secure configurations.
 
 ## Key Takeaways
-- The discovery of security weaknesses in networks found that WEP and some WPA/WPA2 networks using WPS are most vulnerable to such attacks.
+- The discovery of security weaknesses in networks found that WEP and some WPA/WPA2 networks using WPS are most vulnerable.
 - Underlines the need for strong encryption and the disabling of WPS in wireless setups.
 
 
