@@ -205,11 +205,11 @@ Use SQLmap, a powerful automated tool, to exploit SQL injection vulnerabilities,
 1. Identify and confirm SQL injection points manually.
 2. Deploy SQLmap with the appropriate flags (`--dbs`, `--tables`, `--dump`) on the confirmed vulnerable endpoint.
 3. Explore the database structure, enumerate tables, and attempt data exfiltration.
-4. Report the vulnerabilities with detailed PoC and suggest tightening database interfaces with parameterized queries.
+4. Give a report on the vulnerabilities along with detailed PoC and propose remediations by using parameterized queries in database.
 
 ## Key Takeaways
 - SQLmap is an invaluable tool for uncovering complex SQL injection paths.
-- Emphasizes using secure practices like input sanitization and least privilege user roles in databases.
+- Emphasize the use of secure practices such as input sanitization and the creation and use of least privilege user roles in databases.
 
   TryHackMe: https://tryhackme.com/r/room/sqlmapthebasics
   
