@@ -232,7 +232,7 @@ Utilize jSQL Injection to perform automated SQL injection attacks, identifying v
 
 ## Key Takeaways
 - Showcases the importance of protecting databases from automated attacks.
-- Encourages rigorous secure software development lifecycle (SDLC) implementation.
+- Proposes best practices for secure software development life cycle (SDLC)
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Cross-Site Scripting (XSS) Automation
