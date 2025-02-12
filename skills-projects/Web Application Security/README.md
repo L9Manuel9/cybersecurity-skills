@@ -107,19 +107,19 @@ TryHackMe: https://tryhackme.com/r/room/fileinc
 Analyze web application HTTP headers to identify security misconfigurations or missing headers that could lead to vulnerabilities.
 
 ## Tools & Techniques
-- Burp Suite or browser development tools (Network tab)
+- Burp Suite or built-in browser development tools (such as the Network tab)
 - cURL for command-line header inspection
 - Knowledge of security headers like Content-Security-Policy, X-Frame-Options, and Strict-Transport-Security
 
 ## Implementation Steps
 1. Capture HTTP requests and responses to assess the application’s HTTP headers.
 2. Identify missing, weak, or insecure headers that could lead to attacks like XSS or clickjacking.
-3. Compare against industry standards and best practices for secure header configurations.
-4. Document recommendations for adding or strengthening security headers.
+3. Match the current state of headers with the best industry standards and best practices for secure header configurations.
+4. Suggest specific changes to the headers like suggesting new addition or strengthening security headers.
 
 ## Key Takeaways
 - Highlights the role HTTP headers play in securing web applications.
-- Simple adjustments can significantly enhance the security posture of a site.
+- Slight adjustments can greatly improve the security level for a web site.
 
 TryHackMe: https://tryhackme.com/r/module/network-security , Could also Mention: https://tryhackme.com/r/module/learn-burp-suite
 
