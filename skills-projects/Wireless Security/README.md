@@ -1,7 +1,7 @@
 # Wi-Fi Network Scanning
 
 ## Objective/Overview
-Identify and enumerate nearby wireless networks, understanding their security protocols, signal strength, and potential vulnerabilities.
+Discover and map nearby wireless networks, understand their security protocols, signal strength, and potential vulnerabilities.
 
 ## Tools & Techniques
 - aircrack-ng suite (specifically, airodump-ng)
@@ -15,8 +15,8 @@ Identify and enumerate nearby wireless networks, understanding their security pr
 4. Document network details for further analysis or targeted testing.
 
 ## Key Takeaways
-- Initial step in wireless penetration testing, crucial for identifying networks with weak or no encryption.
-- Emphasizes the importance of using secure protocols like WPA2 or WPA3.
+- The first step in wireless penetration testing, which is essential for the identification of networks with weak or no encryption
+- Shows the significance of using safe protocols like WPA2 or WPA3.
 
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
