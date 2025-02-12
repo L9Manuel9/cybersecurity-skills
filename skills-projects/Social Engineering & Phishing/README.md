@@ -139,19 +139,19 @@ Demonstrate how attackers can forge email header information to mimic emails fro
 # Client-Side Attacks with BeEF
 
 ## Objective/Overview
-Use the Browser Exploitation Framework (BeEF) to demonstrate how browsers can be manipulated post-compromise to exploit users further.
+Use the Browser Exploitation Framework (BeEF) to demonstrate new ways to further compromise browsers after exploitation and eventually take advantage of the users.
 
 ## Tools & Techniques
-- BeEF for managing compromised browsers
+- BeEF to conduct browser control on a compromised device
 - Modular exploitation (keylogging, phishing)
 - Social engineering tactics to deliver BeEF hooks
 
 ## Implementation Steps
-1. Deploy BeEF within a test environment and integrate the hook script into a target application or webpage.
-2. Use social engineering or XSS vulnerabilities to trigger the hook, capturing the target's browser into the BeEF management console.
-3. Execute various exploits using BeEF modules to demonstrate potential risks.
-4. Assess systems and procedures to prevent BeEF vulnerabilities, advising on robust client security policies.
+1. Execute BeEF within a test network and include the hook script to a targeted website or application.
+2. Use social engineering or XSS vulnerabilities to deploy the hook, taking advantage of the target's browser and being able to manage it through the BeEF management console.
+3. Provision of all the different exploits through the BeEF modules could serve as the basis for one to determine the major risk factors.
+4. Instances where particular systems, and protocol flaws leave room for BeEF related threats, advice should be provided on robust client security policies.
 
 ## Key Takeaways
-- BeEF underscores the risks of browsing on untrusted or malicious sites.
-- Securing browser settings and adopting security-conscious behavior is essential for protection.
+- The BeEF attack reveals how potentially harmful is browsing the untrusted and the dark web.
+- In addition to browser security settings, utilizing privacy-enhancing measures and adopting safe practices are also crucial for protection.
