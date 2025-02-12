@@ -91,7 +91,7 @@ Find out how web sessions are implemented, cookie-based authentication, session 
 1. First, get the session ID in cookies by logging into the test web application.
 2. Observe how the session ID changes by logging out or going through different processes.
 3. See if it is possible to reuse the same cookie on another browser or device.
-4. Note if the application properly invalidates sessions upon logout.
+4. Check if the application correctly invalidates the sessions upon logout.
 
 ## Key Takeaways
  
