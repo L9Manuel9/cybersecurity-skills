@@ -12,7 +12,7 @@ Discover and map nearby wireless networks, understand their security protocols, 
 1. Enable monitor mode on your wireless adapter (`airmon-ng start wlan0`).
 2. Use airodump-ng `<monitor_interface>` to list all visible Wi-Fi networks, capturing details such as BSSID, ESSID, channel, and encryption type.
 3. Focus on networks of interest by specifying particular channels (`-c`) or BSSIDs.
-4. Document network details for further analysis or targeted testing.
+4. Network details should be documented for following deep analysis or targeted testing.
 
 ## Key Takeaways
 - The first step in wireless penetration testing, which is essential for the identification of networks with weak or no encryption
