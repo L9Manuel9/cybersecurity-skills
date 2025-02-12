@@ -164,7 +164,7 @@ Demonstrate how session hijacking can compromise user sessions through insecure 
 4. Advise the implementation of secure cookies, HTTPS, and active session management practices.
 
 ## Key Takeaways
-- Weak session management can lead to critical data breaches.
+- The lack of proper session management can result in very severe data breaches.
 - Using HTTPs and setting cookies with secure attributes (Secure, HttpOnly, SameSite) is vital.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
