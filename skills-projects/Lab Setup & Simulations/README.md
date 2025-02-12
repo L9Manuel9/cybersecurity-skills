@@ -55,21 +55,21 @@ A virtual lab is an important tool to go for penetration testing and network sec
 
 ## Objective/Overview
 
-- Test how systems or applications resist brute force methods in a secure and controlled environment.
+- Demonstrate how systems or applications hold up against brute force methods.
 
 ## Tools & Techniques
 
-- Brute force tools like Hydra or Burp Suite Intruder
-- Selected word lists that match real attack patterns
-- Monitoring to check failed login tries or lockouts
+- Use of brute force tools such as Hydra and penetration testing tools like Burp Suite Intruder
+- Selected wordlists that match real attack patterns
+- Check failed login tries or lockouts
 
 ## Implementation Steps
 
 1. A test must select specific login points in test areas.
 2. The attack tools need proper setup with planned word lists.
-3. Record how fast systems respond or lock accounts.
+3. Observe how fast systems respond or lock accounts.
 4. Write reports about test results or needed security fixes.
 
 ## Key Takeaways
-- Shows how well password rules or lockouts work.
-- Helps make login systems more secure from attacks.
+- Demonstrates the effectiveness of password rules or lockout mechanism.
+- Supports the process of making the login systems less vulnerable to threats
