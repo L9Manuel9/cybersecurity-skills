@@ -96,7 +96,7 @@ Find out how web sessions are implemented, cookie-based authentication, session 
 ## Key Takeaways
  
 - Vital to safeguarding user authentication.
-- Unauthorized access might be gained by an attacker if secure cookies are not used.
+- An attacker can gain unauthorized access to a user's account when a website is not secure or does not use secure cookies.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Analyzing Network Logs for Intrusions
