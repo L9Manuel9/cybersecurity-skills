@@ -42,7 +42,7 @@ Discover and exploit SQL Injection vulnerabilities in web applications, allowing
 
 ## Implementation Steps
 1. Identify input forms or parameters that accept unsanitized user input.
-2. Use manual payloads to test for response changes, error messages, or data leakage.
+2. Perform the manual injection attack to test for response changes, error messages, or data leakage.
 3. Deploy SQLmap for comprehensive testing when severe vulnerabilities are found.
 4. Provide a report containing query examples and recommend using parameterized queries or ORM solutions.
 
