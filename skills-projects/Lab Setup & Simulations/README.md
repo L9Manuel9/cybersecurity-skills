@@ -22,8 +22,8 @@ However, sometimes i'll rather have greater control over the environment or wher
 4. Observe the methodology of participants, giving feedback that helps them learn better.
 
 ## Key Takeaways
-- The setup offers a safe space for skill growth.
-- Also promotes teamwork in learning or solving problems.
+- The setup is a safe space for growing their abilities.
+- Moreover, promotes teamwork in learning or solving problems.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 
