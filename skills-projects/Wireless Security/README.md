@@ -45,12 +45,12 @@ Identify weaknesses in wireless networks and execute attacks to demonstrate the 
 # Using Wi-Fi Pineapple for MITM Attack
 
 ## Objective/Overview
-Leverage the Wi-Fi Pineapple to conduct Man-in-the-Middle (MITM) attacks by creating rogue access points and capturing victim data.
+Wi-Fi Pineapple allows us to achieve Man-in-the-Middle (MITM), that is done by not only creating a rogue access point but also catching all the data of the victim.
 
 ## Tools & Techniques
 - Wi-Fi Pineapple hardware device
 - Modules for traffic logging, DNS spoofing, and SSL stripping
-- Understanding of rogue AP and network redirection techniques
+- Mastering the concepts of rogue AP and network redirection
 
 ## Implementation Steps
 1. Configure the Wi-Fi Pineapple to mimic legitimate network SSIDs, creating an attractive rogue AP.
@@ -60,7 +60,7 @@ Leverage the Wi-Fi Pineapple to conduct Man-in-the-Middle (MITM) attacks by crea
 
 ## Key Takeaways
 - Demonstrates how easily users can be tricked into connecting to rogue networks.
-- Stresses the importance of maintaining strict network SSID management and utilizing secure connections like VPNs.
+- Reminds us of the fact that the most powerful measure to secure a network is a strict network SSID management and traffic encryption with services like VPNs.
 
 
 
