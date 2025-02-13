@@ -6,7 +6,7 @@
 - Ticketing and Troubleshooting.
 - Proposed LAN/WLAN Network Infrastructure for the New Office.
 
-  ## About:
+## About:
 
 The implementation of those discussed several hands-on projects, with well-defined objectives and deadlines, followed
 with the support and feedback of an experienced Technical Advisor made available by Academy Rapido. 
