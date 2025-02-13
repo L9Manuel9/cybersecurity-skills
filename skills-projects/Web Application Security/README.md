@@ -292,7 +292,7 @@ Identify insecure deployments of WebSockets in web applications, demonstrating u
 ## Implementation Steps
 1. Intercept the WebSocket traffic to the server and check over the initial handshake.
 2. Modify WS-related frames and see if server-side correctly handles them in the case of invalid or unexpected messages.
-3. Probe for authentication or authorization weaknesses.
+3. Check for login and permission bypassing loopholes.
 4. Document findings, showcasing beneficial use cases for application improvement and secure development.
 
 ## Key Takeaways
