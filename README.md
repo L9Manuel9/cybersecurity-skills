@@ -1,8 +1,8 @@
 # Welcome to My GitHub Portfolio 🥳
 
-## Here you can find Writeups about some Interesting CTFs.
+## Here you can find Researches such as: Advanced threats from cryptominer infections in IoT devices.
 
-## Researches such as: Advanced threats from cryptominer infections in IoT devices.
+## Writeups about some Interesting CTFs.
 
 ## Documentations about Freelancing scenarios where you can take a look at my Methodology in both GDPR Inquiries and Troubleshooting.
 
