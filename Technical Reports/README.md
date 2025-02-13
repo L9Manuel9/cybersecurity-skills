@@ -9,7 +9,7 @@ Ready to download as PDF.
 
 ## About:
 
-The implementation of those discussed several hands-on projects, with well-defined objectives and deadlines, followed
+The implementation of those discussed several hands-on projects, conducted with well-defined objectives and deadlines, followed
 with the support and feedback of an experienced Technical Advisor made available by Academy Rapido. 
 To round it out, the discussion with colleagues and the use of key business productivity tools, such as 
 Slack, Zoom, Google Drive and Calendar.
