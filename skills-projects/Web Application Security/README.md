@@ -290,14 +290,14 @@ Identify insecure deployments of WebSockets in web applications, demonstrating u
 - Familiarity with WebSocket API and protocol structures
 
 ## Implementation Steps
-1. Intercept WebSocket traffic and analyze the initial handshake process.
-2. Attempt to manipulate WS frames to observe how the server-side logic handles invalid or unexpected messages.
+1. Intercept the WebSocket traffic to the server and check over the initial handshake.
+2. Modify WS-related frames and see if server-side correctly handles them in the case of invalid or unexpected messages.
 3. Probe for authentication or authorization weaknesses.
 4. Document findings, showcasing beneficial use cases for application improvement and secure development.
 
 ## Key Takeaways
 - WebSocket vulnerabilities demand just as much attention as typical HTTP endpoints.
-- Emphasizes proactive security testing during the development phase of live applications.
+- The importance of proactive security testing is underlined in the development phase of live applications.
 
 ------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 # Creating Custom Exploits for Web Applications
