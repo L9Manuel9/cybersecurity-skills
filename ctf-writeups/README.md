@@ -3,7 +3,7 @@
 ## Publisher [Difficulty: Easy] 
 Medium: https://medium.com/@contact_18999/walkthrough-ctf-publisher-4283bd0acfe2 
 
-The "Publisher" CTF machine is a simulated environment hosting some services. Through a series of enumeration techniques, including directory fuzzing and version identification, a vulnerability is discovered, allowing for Remote Code Execution (RCE). Attempts to escalate privileges using a custom binary are hindered by restricted access to critical system files and directories, necessitating a deeper exploration into the system's security profile to ultimately exploit a loophole that enables the execution of an unconfined bash shell and achieve privilege escalation.
+The "Publisher" CTF challenge is a simulated environment hosting some services. Through a series of enumeration techniques, including directory fuzzing and version identification, a vulnerability is discovered, allowing for Remote Code Execution (RCE). Attempts to escalate privileges using a custom binary are hindered by restricted access to critical system files and directories, necessitating a deeper exploration into the system's security profile to ultimately exploit a loophole that enables the execution of an unconfined bash shell and achieve privilege escalation.
 
 - I've Choosen this CTF to made a writeup, Because even if it Easy, It Shows the methodology for most Easy boot-to-root machines.
 
@@ -21,4 +21,4 @@ The "Hammer" CTF challenge presents a vulnerable web application running on an A
 ## Rabbit-Hole [Difficulty: Hard]
 Medium: https://medium.com/@contact_18999/walkthrough-ctf-rabbit-hole-ded1ef4d35ed
 
-The 
+The "Rabbit-Hole" CTF challenge presents a vulnerable web application running on an Apache server. Through a series of enumeration techniques, including Nmap scans and manual investigation, a registration and login page were uncovered. A SQL injection vulnerability was discovered, allowing for the extraction of the database name and table information. The admin password hash was eventually retrieved, despite being limited to 16 characters. After exploiting the vulnerability, the focus shifted to the analysis of the logins table and the INFORMATION_SCHEMA database. Ultimately, the flag was retrieved by accessing the system via SSH as the user admin with the retrieved password.
