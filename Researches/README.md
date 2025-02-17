@@ -1,7 +1,6 @@
 
 # Advanced threats from cryptominer infections in IoT devices: A research analysis
 
-------------------------------------------------------------------------------0101010101---0101010101---0101010101---010101010
 
 ## Preview 
 
