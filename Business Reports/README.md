@@ -7,6 +7,8 @@ Ready to download as PDF.
 - Ticketing and Troubleshooting.
 - Proposed LAN/WLAN Network Infrastructure for the New Office.
 
+  ## Note: ML9-Projects are Translated manually.
+
 ## About:
 
 The implementation of those discussed several hands-on projects, conducted with well-defined objectives and deadlines, followed
