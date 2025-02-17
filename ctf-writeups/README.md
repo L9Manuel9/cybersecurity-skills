@@ -23,4 +23,4 @@ Medium: https://medium.com/@contact_18999/walkthrough-ctf-rabbit-hole-ded1ef4d35
 
 The "Rabbit-Hole" CTF challenge presents a vulnerable web application running on an Apache server. Through a series of enumeration techniques, including manual investigation, a registration and login page were uncovered. A SQL injection vulnerability was discovered, allowing for the extraction of the database name and table information. The admin password hash was eventually retrieved, despite being limited to 16 characters. After exploiting the vulnerability, the focus shifted to the analysis of the INFORMATION_SCHEMA database. Ultimately, the flag was retrieved by accessing the system via SSH as the user admin with the retrieved password.
 
-- This CTF as taken me several hours, However, since my Prodigy skill is researching, i've tried everything related and discovered the solution.
+- This CTF has taken me several hours, However, utilizing my skill of researching, i've tried everything related and discovered the solution.
